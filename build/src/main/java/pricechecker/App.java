@@ -1,6 +1,7 @@
 package pricechecker;
 
 import javafx.application.Application;
+import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
@@ -17,7 +18,7 @@ public class App extends Application {
 
     @Override
     public void start(Stage stage) throws IOException {
-        scene = new Scene(loadFXML("title"), 640, 480);
+        scene = new Scene(loadFXML("title"), 840, 480);
         stage.setScene(scene);
         stage.show();
     }
