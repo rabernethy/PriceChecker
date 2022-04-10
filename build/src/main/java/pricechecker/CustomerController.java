@@ -70,11 +70,6 @@ public class CustomerController {
         numItems++;
     }
 
-    @FXML
-    public void updateMaxDist(int dist) {
-        maximumDistance = dist;
-    }
-
     public void updateMaxDist(KeyEvent keyEvent) {
         try {
             maximumDistance = Integer.parseInt(maxDist.getText());
@@ -83,5 +78,20 @@ public class CustomerController {
         catch (NumberFormatException e) {
             System.out.println("Invalid String");
         }
+    }
+
+
+    public void sortItems(MouseEvent mouseEvent) {
+        boolean status = false;
+        double current = distance.getFirst();
+        int i = 1;
+        do {
+            if(current >= distance.get(i)) {
+                distance.set(i-1, distance.get(i));
+                distance.set(i,current);
+            }
+            current = distance.get(i);
+            i++;
+        } while (status);
     }
 }
