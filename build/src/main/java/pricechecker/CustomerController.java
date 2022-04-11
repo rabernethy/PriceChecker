@@ -82,16 +82,33 @@ public class CustomerController {
 
 
     public void sortItems(MouseEvent mouseEvent) {
-        boolean status = false;
+        boolean status = true;
         double current = distance.getFirst();
-        int i = 1;
         do {
-            if(current >= distance.get(i)) {
-                distance.set(i-1, distance.get(i));
-                distance.set(i,current);
+            int timesInIf = 0;
+            for(int i = 1; i <= distance.size(); i++) {
+                if (current >= distance.get(i)) {
+                    timesInIf++;
+                    swapAllLists(distance, distance.get(i-1), distance.get(i));
+                }
+                current = distance.get(i);
             }
-            current = distance.get(i);
-            i++;
+            if(timesInIf == 0) //If the if statement is never entered, the list is sorted
+                status = false;
         } while (status);
+    }
+
+    public void swapAllLists(LinkedList<Double> list, double ele1, double ele2) {
+        int index1 = list.indexOf(ele1);
+        int index2 = list.indexOf(ele2);
+
+        list.set(index1, ele2);
+        list.set(index2, ele1);
+        name.set(index1, name.get(index2));
+        name.set(index2, name.get(index1));
+        price.set(index1, price.get(index2));
+        price.set(index2, price.get(index1));
+        isHealthy.set(index1, isHealthy.get(index2));
+        isHealthy.set(index2, isHealthy.get(index1));
     }
 }
