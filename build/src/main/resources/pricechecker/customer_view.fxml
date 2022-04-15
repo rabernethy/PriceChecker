@@ -64,7 +64,7 @@
          </content>
       </ScrollPane>
       <Button fx:id="loadData" layoutX="10.0" layoutY="442.0" mnemonicParsing="false" onMouseClicked="#loadDataIntoGrid" text="Load Data" />
-      <Button fx:id="updateItems" layoutX="420.0" layoutY="427.0" mnemonicParsing="false" onMouseClicked="#sortItems" text="Update Items" />
+      <Button fx:id="updateItems" layoutX="420.0" layoutY="427.0" mnemonicParsing="false" onMouseClicked="#sortDistance" text="Update Items" />
       <TextField fx:id="maxDist" layoutX="262.0" layoutY="427.0" onKeyReleased="#updateMaxDist" promptText="10" />
       <Label layoutX="218.0" layoutY="406.0" text="How far do you want to search? (In miles)" />
    </children>
