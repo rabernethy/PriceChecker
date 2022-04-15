@@ -81,12 +81,14 @@ public class CustomerController {
     }
 
 
-    public void sortItems(MouseEvent mouseEvent) {
+    public void sortDistance(MouseEvent mouseEvent) {
+        System.out.println(distance);
+        System.out.println(name);
         boolean status = true;
-        double current = distance.getFirst();
         do {
             int timesInIf = 0;
-            for(int i = 1; i <= distance.size(); i++) {
+            double current = distance.getFirst();
+            for(int i = 1; i < distance.size(); i++) {
                 if (current >= distance.get(i)) {
                     timesInIf++;
                     swapAllLists(distance, distance.get(i-1), distance.get(i));
@@ -96,6 +98,30 @@ public class CustomerController {
             if(timesInIf == 0) //If the if statement is never entered, the list is sorted
                 status = false;
         } while (status);
+
+        System.out.println(distance);
+        System.out.println(name);
+
+        Label labelName, labelPrice, labelDist, labelHealth;
+        int size = distance.size();
+        //Remove items currently in list and replace with the sorted list
+        for (int i = 0; i < size; i++) {
+            currentMarket.getChildren().remove(i);
+            numItems--;
+
+            labelName = new Label("" + name.get(i));
+            labelPrice = new Label("" + price.get(i));
+            labelDist = new Label("" + distance.get(i));
+            labelHealth = new Label("" + isHealthy.get(i));
+
+            currentMarket.add(labelName, 1, numItems);
+            currentMarket.add(labelPrice, 2, numItems);
+            currentMarket.add(labelDist, 3, numItems);
+            currentMarket.add(labelHealth, 4, numItems);
+            numItems++;
+        }
+
+        System.out.println(distance);
     }
 
     public void swapAllLists(LinkedList<Double> list, double ele1, double ele2) {
