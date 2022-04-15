@@ -15,6 +15,7 @@ public class CustomerController {
     LinkedList<Integer> price = new LinkedList<Integer>();
     LinkedList<Double> distance = new LinkedList<Double>();
     LinkedList<Boolean> isHealthy = new LinkedList<Boolean>();
+    Label[][] gridLabels = new Label[10][10];
     int numItems = 0;
     int maximumDistance;
 
@@ -67,6 +68,13 @@ public class CustomerController {
         currentMarket.add(labelPrice, 2, numItems);
         currentMarket.add(labelDist, 3, numItems);
         currentMarket.add(labelHealth, 4, numItems);
+
+
+            gridLabels[numItems][1] = labelName;
+            gridLabels[numItems][2] = labelPrice;
+            gridLabels[numItems][3] = labelDist;
+            gridLabels[numItems][4] = labelHealth;
+
         numItems++;
     }
 
@@ -103,12 +111,16 @@ public class CustomerController {
         System.out.println(name);
 
         Label labelName, labelPrice, labelDist, labelHealth;
-        int size = distance.size();
-        //Remove items currently in list and replace with the sorted list
-        for (int i = 0; i < size; i++) {
-            currentMarket.getChildren().remove(i);
-            numItems--;
+        //Remove items currently in list
+        for (int i = 0; i < gridLabels.length; i++) {
+            for (int j = 0; j < gridLabels[0].length; j++) {
+                currentMarket.getChildren().remove(gridLabels[i][j]);
+                numItems = 0;
+            }
+        }
 
+        //Add items back into the list
+        for (int i = 0; i < distance.size(); i++) {
             labelName = new Label("" + name.get(i));
             labelPrice = new Label("" + price.get(i));
             labelDist = new Label("" + distance.get(i));
