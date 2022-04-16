@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import java.lang.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="480.0" prefWidth="840.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pricechecker.CustomerController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="480.0" prefWidth="840.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pricechecker.CustomerController">
    <children>
       <Button layoutX="14.0" layoutY="14.0" mnemonicParsing="false" text="Upload" />
       <ScrollPane layoutX="170.0" layoutY="25.0" maxWidth="-Infinity" prefHeight="350.0" prefWidth="370.0" AnchorPane.rightAnchor="300.0">
@@ -64,8 +65,9 @@
          </content>
       </ScrollPane>
       <Button fx:id="loadData" layoutX="10.0" layoutY="442.0" mnemonicParsing="false" onMouseClicked="#loadDataIntoGrid" text="Load Data" />
-      <Button fx:id="updateItems" layoutX="420.0" layoutY="427.0" mnemonicParsing="false" onMouseClicked="#sortDistance" text="Update Items" />
+      <Button fx:id="updateItems" layoutX="420.0" layoutY="427.0" mnemonicParsing="false" onMouseClicked="#sortDistance" text="Sort Distance" />
       <TextField fx:id="maxDist" layoutX="262.0" layoutY="427.0" onKeyReleased="#updateMaxDist" promptText="10" />
       <Label layoutX="218.0" layoutY="406.0" text="How far do you want to search? (In miles)" />
+      <Button fx:id="updateItemsPrice" layoutX="552.0" layoutY="427.0" mnemonicParsing="false" onMouseClicked="#sortPrice" text="Sort Price" />
    </children>
 </AnchorPane>
