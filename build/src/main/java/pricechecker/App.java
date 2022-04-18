@@ -21,6 +21,7 @@ public class App extends Application {
         scene = new Scene(loadFXML("title"), 840, 480);
         stage.setScene(scene);
         stage.show();
+
     }
 
     static void setRoot(String fxml) throws IOException {
@@ -34,6 +35,7 @@ public class App extends Application {
 
     public static void main(String[] args) {
         launch();
+
     }
 
 }
