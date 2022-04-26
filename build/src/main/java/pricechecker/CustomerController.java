@@ -15,7 +15,7 @@ public class CustomerController {
     LinkedList<Integer> price = new LinkedList<Integer>();
     LinkedList<Double> distance = new LinkedList<Double>();
     LinkedList<Boolean> isHealthy = new LinkedList<Boolean>();
-    Label[][] gridLabels = new Label[10][10];
+    Label[][] gridLabels = new Label[5][5];
     int numItems = 0;
     int maximumDistance;
 
@@ -46,7 +46,7 @@ public class CustomerController {
     public void loadDataIntoGrid(MouseEvent mouseEvent) {
         if (mouseEvent.getSource() == loadData) {
             addToList("Apple",2, 2.3, true);
-            addToList("Banana",3, 3.0, true);
+            addToList("Banana",3, 3.1, true);
             addToList("Banana",6, 4.5, true);
             addToList("Carrots",4, 2.5, true);
             addToList("Snickers",1, 1.2, false);
@@ -82,11 +82,73 @@ public class CustomerController {
     public void updateMaxDist(KeyEvent keyEvent) {
         try {
             maximumDistance = Integer.parseInt(maxDist.getText());
-            System.out.println(maximumDistance);
         }
         catch (NumberFormatException e) {
-            System.out.println("Invalid String");
         }
+        for (int i = 0; i < distance.size(); i++) {
+            if(distance.get(i) > maximumDistance) {
+                for (int j = 0; j < 5; j++) {
+                    currentMarket.getChildren().remove(gridLabels[i][j]);
+                    gridLabels[i][j] = null;
+                }
+                //This is to remove any empty rows in the gridLabels array
+                Label tempLabel1 = gridLabels[numItems-1][1];
+                Label tempLabel2 = gridLabels[numItems-1][2];
+                Label tempLabel3 = gridLabels[numItems-1][3];
+                Label tempLabel4 = gridLabels[numItems-1][4];
+                Label swapLabel;
+                gridLabels[numItems-1][1] = null;
+                gridLabels[numItems-1][2] = null;
+                gridLabels[numItems-1][3] = null;
+                gridLabels[numItems-1][4] = null;
+                for (int k = distance.size() - 1; k > i; k--) {
+                    swapLabel = gridLabels[k-1][1];
+                    gridLabels[k-1][1] = tempLabel1;
+                    tempLabel1 = swapLabel;
+
+                    swapLabel = gridLabels[k-1][2];
+                    gridLabels[k-1][2] = tempLabel2;
+                    tempLabel2 = swapLabel;
+
+                    swapLabel = gridLabels[k-1][3];
+                    gridLabels[k-1][3] = tempLabel3;
+                    tempLabel3 = swapLabel;
+
+                    swapLabel = gridLabels[k-1][4];
+                    gridLabels[k-1][4] = tempLabel4;
+                    tempLabel4 = swapLabel;
+                }
+                for (int j = 0; j < gridLabels.length; j++) {
+                    for (int k = 0; k < gridLabels[0].length; k++) {
+                        System.out.print(gridLabels[j][k] + " ");
+                    }
+                    System.out.println("\n");
+
+                }
+                numItems--;
+                distance.remove(i);
+            }
+        }
+        //Remove items currently in list
+        for (int i = 0; i < gridLabels.length; i++) {
+            for (int j = 0; j < gridLabels[0].length; j++) {
+                currentMarket.getChildren().remove(gridLabels[i][j]);
+                numItems = 0;
+            }
+        }
+        for (int i = 0; i < distance.size(); i++) {
+            Label labelName = gridLabels[i][1];
+            Label labelPrice = gridLabels[i][2];
+            Label labelDist = gridLabels[i][3];
+            Label labelHealth = gridLabels[i][4];
+
+            currentMarket.add(labelName, 1, numItems);
+            currentMarket.add(labelPrice, 2, numItems);
+            currentMarket.add(labelDist, 3, numItems);
+            currentMarket.add(labelHealth, 4, numItems);
+            numItems++;
+        }
+
     }
 
 
