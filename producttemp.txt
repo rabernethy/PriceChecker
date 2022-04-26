@@ -1,0 +1,586 @@
+1|Acorn Squash|$2.38 avg/ea|1|The Fresh Grocer of Progress Plaza
+2|Acorn Squash|$2.38 avg/ea|1|The Fresh Grocer of Progress Plaza
+3|Acorn Squash|$2.38 avg/ea|1|The Fresh Grocer of Progress Plaza
+4|Alfalfa Sprouts  |$1.99|1|The Fresh Grocer of Progress Plaza
+5|Aloe Vera Leaves|$1.79|1|The Fresh Grocer of Progress Plaza
+6|Aloe Vera Leaves|$1.79|1|The Fresh Grocer of Progress Plaza
+7|Aloe Vera Leaves|$1.79|1|The Fresh Grocer of Progress Plaza
+8|Anise Florence/Sweet Fennel/Fennel|$2.99|1|The Fresh Grocer of Progress Plaza
+9|Asparagus Bundle|$2.99 avg/ea|1|The Fresh Grocer of Progress Plaza
+10|B&W Arugula|$3.49|1|The Fresh Grocer of Progress Plaza
+11|B&W Arugula|$3.49|1|The Fresh Grocer of Progress Plaza
+12|B&W Arugula|$3.49|1|The Fresh Grocer of Progress Plaza
+13|B&W Watercress|$3.49|1|The Fresh Grocer of Progress Plaza
+14|Baby Broccoli Bunch|$2.99|1|The Fresh Grocer of Progress Plaza
+15|Baby Carrots - 4 Pack|$2.49|1|The Fresh Grocer of Progress Plaza
+16|Baby Seedless Cucumbers|$2.50|1|The Fresh Grocer of Progress Plaza
+17|Baby Seedless Cucumbers|$2.50|1|The Fresh Grocer of Progress Plaza
+18|Baby Seedless Cucumbers|$2.50|1|The Fresh Grocer of Progress Plaza
+19|Bailey Farms Anaheim Pepper|$2.49|1|The Fresh Grocer of Progress Plaza
+20|Bailey Farms Chile Pepper Hungarian|$2.49|1|The Fresh Grocer of Progress Plaza
+21|Bailey Farms Jalapeno Pepper|$2.49|1|The Fresh Grocer of Progress Plaza
+22|Bailey Farms Mixed Chiles|$2.49|1|The Fresh Grocer of Progress Plaza
+23|Beets 1 Bunch|$2.99|1|The Fresh Grocer of Progress Plaza
+24|Beets 1 Bunch|$2.99|1|The Fresh Grocer of Progress Plaza
+25|Beets 1 Bunch|$2.99|1|The Fresh Grocer of Progress Plaza
+26|Bistro Chicken Queso Fresco Salad Creamy Avocado Dressing|$3.25|1|The Fresh Grocer of Progress Plaza
+27|Bistro Cranberry Walnut Salad|$3.25|1|The Fresh Grocer of Progress Plaza
+28|Bistro Kickin' BBQ Style Salad|$3.25|1|The Fresh Grocer of Progress Plaza
+29|Black Radish|$2.59/lb|1|The Fresh Grocer of Progress Plaza
+30|Bok Choy 1 ct|$1.99 avg/ea|1|The Fresh Grocer of Progress Plaza
+31|Boston Lettuce|$2.49|1|The Fresh Grocer of Progress Plaza
+32|Bowl & Basket Arugula|$2.49|1|The Fresh Grocer of Progress Plaza
+33|Bowl & Basket Baby Bella Sliced|$2.99|1|The Fresh Grocer of Progress Plaza
+34|Bowl & Basket Baby Bella Sliced|$3.99|1|The Fresh Grocer of Progress Plaza
+35|Bowl & Basket Baby Bella|$2.49|1|The Fresh Grocer of Progress Plaza
+36|Bowl & Basket Baby Bella|$2.49|1|The Fresh Grocer of Progress Plaza
+37|Bowl & Basket Baby Bella|$2.49|1|The Fresh Grocer of Progress Plaza
+38|Bowl & Basket Baby Bella|$4.99|1|The Fresh Grocer of Progress Plaza
+39|Bowl & Basket Baby Carrots|$1.50|1|The Fresh Grocer of Progress Plaza
+40|Bowl & Basket Baby Carrots|$2.69|1|The Fresh Grocer of Progress Plaza
+41|Bowl & Basket Baby Potatoes|$2.50|1|The Fresh Grocer of Progress Plaza
+42|Bowl & Basket Baby Spinach|$4.99|1|The Fresh Grocer of Progress Plaza
+43|Apple Royal Gala|$1.80 avg/ea|1|The Fresh Grocer of Progress Plaza
+44|Apple Royal Gala|$1.80 avg/ea|1|The Fresh Grocer of Progress Plaza
+45|Apple Royal Gala|$1.80 avg/ea|1|The Fresh Grocer of Progress Plaza
+46|Apples Organic Granny Smith|$0.87 avg/ea|1|The Fresh Grocer of Progress Plaza
+47|Assorted Fruit Apples & Oranges|$9.99|1|The Fresh Grocer of Progress Plaza
+48|Assorted Fruit Apples & Oranges|$9.99|1|The Fresh Grocer of Progress Plaza
+49|Assorted Fruit Apples & Oranges|$9.99|1|The Fresh Grocer of Progress Plaza
+50|Avocados Green - Small|$2.99|1|The Fresh Grocer of Progress Plaza
+51|Bagged Lemons|$3.99|1|The Fresh Grocer of Progress Plaza
+52|Bagged Limes - 2lb|$5.99|1|The Fresh Grocer of Progress Plaza
+53|Bagged Limes - 2lb|$5.99|1|The Fresh Grocer of Progress Plaza
+54|Bagged Limes - 2lb|$5.99|1|The Fresh Grocer of Progress Plaza
+55|Bartlett/ Packham Pear|$0.75 avg/ea|1|The Fresh Grocer of Progress Plaza
+56|Beefsteak Tomato|$1.25 avg/ea|1|The Fresh Grocer of Progress Plaza
+57|Beetology Beet & Berry Juice|$2.50|1|The Fresh Grocer of Progress Plaza
+58|Black Plum|$1.12 avg/ea|1|The Fresh Grocer of Progress Plaza
+59|Black Plum|$1.12 avg/ea|1|The Fresh Grocer of Progress Plaza
+60|Black Plum|$1.12 avg/ea|1|The Fresh Grocer of Progress Plaza
+61|Black Seedless Grapes|$2.99/lb|1|The Fresh Grocer of Progress Plaza
+62|Blueberries |$3.99|1|The Fresh Grocer of Progress Plaza
+63|Bosc Pear|$1.00 avg/ea|1|The Fresh Grocer of Progress Plaza
+64|Bowl & Basket Apples Golden Delicious|$3.49|1|The Fresh Grocer of Progress Plaza
+65|Bowl & Basket Apples Granny Smith|$5.29|1|The Fresh Grocer of Progress Plaza
+66|Bowl & Basket Apples Granny Smith|$5.29|1|The Fresh Grocer of Progress Plaza
+67|Bowl & Basket Apples Granny Smith|$5.29|1|The Fresh Grocer of Progress Plaza
+68|Bowl & Basket Apples McIntosh|$3.49|1|The Fresh Grocer of Progress Plaza
+69|Bowl & Basket Apples Red Delicious|$3.49|1|The Fresh Grocer of Progress Plaza
+70|Bowl & Basket Apples|$3.49|1|The Fresh Grocer of Progress Plaza
+71|Bowl & Basket Apples|$3.49|1|The Fresh Grocer of Progress Plaza
+72|Bowl & Basket Apples|$3.49|1|The Fresh Grocer of Progress Plaza
+73|Bowl & Basket Grape Tomatoes|$1.50|1|The Fresh Grocer of Progress Plaza
+74|Bowl & Basket Navel|$4.88|1|The Fresh Grocer of Progress Plaza
+75|Bowl & Basket Tomatoes|$2.99|1|The Fresh Grocer of Progress Plaza
+76|Cantaloupe|$2.99|1|The Fresh Grocer of Progress Plaza
+77|Cara Cara Orange|$1.25|1|The Fresh Grocer of Progress Plaza
+78|Cara Cara Orange|$1.25|1|The Fresh Grocer of Progress Plaza
+79|Cara Cara Orange|$1.25|1|The Fresh Grocer of Progress Plaza
+80|Cara Cara Oranges         |$4.99|1|The Fresh Grocer of Progress Plaza
+81|Carton Pack Tomatoes|$1.13 avg/ea|1|The Fresh Grocer of Progress Plaza
+82|Class Produce Cantaloupe Chunks|$6.99|1|The Fresh Grocer of Progress Plaza
+83|Class Produce Cantaloupe Chunks|$3.99|1|The Fresh Grocer of Progress Plaza
+84|Class Produce Pineapple Chunks|$6.99|1|The Fresh Grocer of Progress Plaza
+85|Alfaro's Artesano Brioche Bakery Bread|$3.99|1|The Fresh Grocer of Progress Plaza
+86|Alfaro's Artesano Brioche Bakery Bread|$3.99|1|The Fresh Grocer of Progress Plaza
+87|Alfaro's Artesano Brioche Bakery Bread|$3.99|1|The Fresh Grocer of Progress Plaza
+88|Amoroso's Bread Rustic Sliced Round|$4.79|1|The Fresh Grocer of Progress Plaza
+89|Amoroso's Bread Seeded Semolina Sliced Round|$4.79|1|The Fresh Grocer of Progress Plaza
+90|Amoroso's Bread Seeded Semolina Sliced Round|$4.79|1|The Fresh Grocer of Progress Plaza
+91|Amoroso's Bread Seeded Semolina Sliced Round|$4.79|1|The Fresh Grocer of Progress Plaza
+92|Arnold Bread|$3.89|1|The Fresh Grocer of Progress Plaza
+93|Arnold Bread|$2.99|1|The Fresh Grocer of Progress Plaza
+94|Arnold Bread|$3.89|1|The Fresh Grocer of Progress Plaza
+95|Arnold Bread|$3.89|1|The Fresh Grocer of Progress Plaza
+96|Arnold Bread|$3.89|1|The Fresh Grocer of Progress Plaza
+97|Arnold Bread|$4.99|1|The Fresh Grocer of Progress Plaza
+98|Arnold Bread|$4.99|1|The Fresh Grocer of Progress Plaza
+99|Arnold Bread|$4.99|1|The Fresh Grocer of Progress Plaza
+100|Arnold Bread|$6.99|1|The Fresh Grocer of Progress Plaza
+101|Arnold Bread|$6.99|1|The Fresh Grocer of Progress Plaza
+102|Arnold Bread|$6.99|1|The Fresh Grocer of Progress Plaza
+103|Arnold Country Oatmeal Bread|$2.99|1|The Fresh Grocer of Progress Plaza
+104|Arnold Country Wheat Bread|$2.99|1|The Fresh Grocer of Progress Plaza
+105|Arnold Country White Bread|$2.99|1|The Fresh Grocer of Progress Plaza
+106|Arnold Jewish Rye Bread|$4.49|1|The Fresh Grocer of Progress Plaza
+107|Arnold Jewish Rye Bread|$4.49|1|The Fresh Grocer of Progress Plaza
+108|Arnold Jewish Rye Bread|$4.49|1|The Fresh Grocer of Progress Plaza
+109|Arnold Jewish Rye Bread|$4.49|1|The Fresh Grocer of Progress Plaza
+110|Arnold Sandwich Thins Rolls|$3.99|1|The Fresh Grocer of Progress Plaza
+111|Arnold Stone Ground 100% Whole Wheat Bread|$3.99|1|The Fresh Grocer of Progress Plaza
+112|Arnold Whole Grains 100% Whole Wheat Bread|$4.89|1|The Fresh Grocer of Progress Plaza
+113|Arnold Whole Grains 12 Grain Bread|$4.89|1|The Fresh Grocer of Progress Plaza
+114|Arnold Whole Grains Healthy Multi-Grain Bread|$4.89|1|The Fresh Grocer of Progress Plaza
+115|Arnold Whole Grains Oatnut Bread|$4.89|1|The Fresh Grocer of Progress Plaza
+116|Ball Park Classic Burger Buns|$2.99|1|The Fresh Grocer of Progress Plaza
+117|Ball Park Hot Dog Buns|$2.99|1|The Fresh Grocer of Progress Plaza
+118|Beefsteak Hearty Rye Seeded Bread|$4.49|1|The Fresh Grocer of Progress Plaza
+119|Beefsteak Soft Rye Bread|$4.49|1|The Fresh Grocer of Progress Plaza
+120|Beefsteak Soft Rye Bread|$4.49|1|The Fresh Grocer of Progress Plaza
+121|Beefsteak Soft Rye Bread|$4.49|1|The Fresh Grocer of Progress Plaza
+122|Bimbo 100% Whole Wheat Bread|$3.89|1|The Fresh Grocer of Progress Plaza
+123|Bowl & Basket Bread Butter Sliced|$2.29|1|The Fresh Grocer of Progress Plaza
+124|Bowl & Basket Bread Honey Wheat Sliced|$1.99|1|The Fresh Grocer of Progress Plaza
+125|Bowl & Basket Bread Plain Italian Sliced|$2.49|1|The Fresh Grocer of Progress Plaza
+126|Bowl & Basket Bread Round Top White Enriched Sliced|$1.00|1|The Fresh Grocer of Progress Plaza
+127| Vermont Extra Sharp White Cheddar Cheese|$2.29|1|The Fresh Grocer of Progress Plaza
+128| Vermont Extra Sharp White Cheddar Cheese|$2.29|1|The Fresh Grocer of Progress Plaza
+129| Vermont Extra Sharp White Cheddar Cheese|$2.29|1|The Fresh Grocer of Progress Plaza
+130|4C 100% Imported Parmesan Grated Cheese|$4.49|1|The Fresh Grocer of Progress Plaza
+131|4C Grated Parmesan-Romano Cheese|$4.49|1|The Fresh Grocer of Progress Plaza
+132|4C Grated Parmesan-Romano Cheese|$4.49|1|The Fresh Grocer of Progress Plaza
+133|4C Grated Parmesan-Romano Cheese|$4.49|1|The Fresh Grocer of Progress Plaza
+134|4C Home Style - Grated Cheese|$4.49|1|The Fresh Grocer of Progress Plaza
+135|4C® Cheese Grated - 100% Parmesan Romano|$4.49|1|The Fresh Grocer of Progress Plaza
+136|Applegate Organic Mild Cheddar Cheese Slices|$5.99|1|The Fresh Grocer of Progress Plaza
+137|Applegate Organic Mild Cheddar Cheese Slices|$5.99|1|The Fresh Grocer of Progress Plaza
+138|Applegate Organic Mild Cheddar Cheese Slices|$5.99|1|The Fresh Grocer of Progress Plaza
+139|Applegate Organic Provolone Cheese Slices|$5.99|1|The Fresh Grocer of Progress Plaza
+140|BelGioioso Italian Cheese Board|$7.99|1|The Fresh Grocer of Progress Plaza
+141|Biazzo Cheese|$6.29|1|The Fresh Grocer of Progress Plaza
+142|Biazzo Cheese|$5.49|1|The Fresh Grocer of Progress Plaza
+143|Biazzo Cheese|$5.49|1|The Fresh Grocer of Progress Plaza
+144|Biazzo Cheese|$5.49|1|The Fresh Grocer of Progress Plaza
+145|Biazzo Cheese|$3.49|1|The Fresh Grocer of Progress Plaza
+146|Biazzo Cheese|$6.29|1|The Fresh Grocer of Progress Plaza
+147|Biazzo Cheese|$5.49|1|The Fresh Grocer of Progress Plaza
+148|Biazzo Cheese|$3.49|1|The Fresh Grocer of Progress Plaza
+149|Borden 2% Milk American Singles|$3.59|1|The Fresh Grocer of Progress Plaza
+150|Borden 2% Milk American Singles|$3.59|1|The Fresh Grocer of Progress Plaza
+151|Borden 2% Milk American Singles|$3.59|1|The Fresh Grocer of Progress Plaza
+152|Borden American Cheese - Singles|$3.59|1|The Fresh Grocer of Progress Plaza
+153|Borden American Singles|$3.59|1|The Fresh Grocer of Progress Plaza
+154|Borden Cheese|$2.59|1|The Fresh Grocer of Progress Plaza
+155|Borden Cheese|$2.59|1|The Fresh Grocer of Progress Plaza
+156|Borden Cheese|$2.59|1|The Fresh Grocer of Progress Plaza
+157|Borden Fat Free American Singles|$3.59|1|The Fresh Grocer of Progress Plaza
+158|Borden Grilled Cheese Melts Singles|$3.59|1|The Fresh Grocer of Progress Plaza
+159|Borden Muenster Slices|$2.59|1|The Fresh Grocer of Progress Plaza
+160|Borden Reduced Fat Sharp Singles|$3.59|1|The Fresh Grocer of Progress Plaza
+161|Borden Sharp Cheddar Slices|$2.59|1|The Fresh Grocer of Progress Plaza
+162|Borden Sharp Cheddar Slices|$2.59|1|The Fresh Grocer of Progress Plaza
+163|Borden Sharp Cheddar Slices|$2.59|1|The Fresh Grocer of Progress Plaza
+164|Borden Sliced Cheese|$2.59|1|The Fresh Grocer of Progress Plaza
+165|Borden Swiss Slices|$2.59|1|The Fresh Grocer of Progress Plaza
+166|Borden White American Singles|$3.59|1|The Fresh Grocer of Progress Plaza
+167|Bowl & Basket Cheese|$2.59|1|The Fresh Grocer of Progress Plaza
+168|Bowl & Basket Cheese|$2.29|1|The Fresh Grocer of Progress Plaza
+169|:ratio Dairy Snack Protein Blueberry|$1.79|1|The Fresh Grocer of Progress Plaza
+170|:ratio Dairy Snack Protein Blueberry|$1.79|1|The Fresh Grocer of Progress Plaza
+171|:ratio Dairy Snack Protein Blueberry|$1.79|1|The Fresh Grocer of Progress Plaza
+172|:ratio Dairy Snack Protein Strawberry|$1.79|1|The Fresh Grocer of Progress Plaza
+173|:ratio Dairy Snack Protein Vanilla|$1.79|1|The Fresh Grocer of Progress Plaza
+174|:ratio Dairy Snack Protein Vanilla|$1.79|1|The Fresh Grocer of Progress Plaza
+175|:ratio Dairy Snack Protein Vanilla|$1.79|1|The Fresh Grocer of Progress Plaza
+176|Activia Light Yogurt Strawberry Banana and Peach|$7.69|1|The Fresh Grocer of Progress Plaza
+177|Activia Probiotic Dailies Strawberry Yogurt Drink|$4.99|1|The Fresh Grocer of Progress Plaza
+178|Activia Yogurt - 6 Strawberry Banana & 6 Strawberry|$7.69|1|The Fresh Grocer of Progress Plaza
+179|Activia Yogurt - 6 Strawberry Banana & 6 Strawberry|$7.69|1|The Fresh Grocer of Progress Plaza
+180|Activia Yogurt - 6 Strawberry Banana & 6 Strawberry|$7.69|1|The Fresh Grocer of Progress Plaza
+181|Activia Yogurt - Assorted|$7.69|1|The Fresh Grocer of Progress Plaza
+182|Activia Yogurt - Light Assorted|$7.69|1|The Fresh Grocer of Progress Plaza
+183|Activia Yogurt - Lowfat Blueberry|$3.69|1|The Fresh Grocer of Progress Plaza
+184|Activia Yogurt - Lowfat Peach|$3.69|1|The Fresh Grocer of Progress Plaza
+185|Activia Yogurt - Lowfat Peach|$3.69|1|The Fresh Grocer of Progress Plaza
+186|Activia Yogurt - Lowfat Peach|$3.69|1|The Fresh Grocer of Progress Plaza
+187|Activia Yogurt - Lowfat Prune|$3.69|1|The Fresh Grocer of Progress Plaza
+188|Activia Yogurt - Nonfat Vanilla|$3.69|1|The Fresh Grocer of Progress Plaza
+189|Activia Yogurt Multi-pack - Blueberry & Strawberry|$7.69|1|The Fresh Grocer of Progress Plaza
+190|Activia Yogurt Multi-Pack - Cherry & Mixed Berry|$7.69|1|The Fresh Grocer of Progress Plaza
+191|Almond Breeze Strawberry Banana|$1.99|1|The Fresh Grocer of Progress Plaza
+192|Almond Breeze Strawberry Banana|$1.99|1|The Fresh Grocer of Progress Plaza
+193|Almond Breeze Strawberry Banana|$1.99|1|The Fresh Grocer of Progress Plaza
+194|Blue Diamond Almonds Almond Breeze Almondmilk Yogurt Alternative|$4.99|1|The Fresh Grocer of Progress Plaza
+195|Blue Diamond Almonds Almond Breeze Almondmilk Yogurt Alternative|$4.99|1|The Fresh Grocer of Progress Plaza
+196|Blue Diamond Almonds Almond Breeze Almondmilk Yogurt|$1.99|1|The Fresh Grocer of Progress Plaza
+197|Blue Diamond Almonds Almond Breeze Almondmilk Yogurt|$1.99|1|The Fresh Grocer of Progress Plaza
+198|Blue Diamond Almonds Almond Breeze Almondmilk Yogurt|$1.99|1|The Fresh Grocer of Progress Plaza
+199|Blue Diamond Almonds Almond Breeze Mixed Berry Almondmilk|$1.99|1|The Fresh Grocer of Progress Plaza
+200|Blue Diamond Blueberry Almondmilk Yogurt|$1.99|1|The Fresh Grocer of Progress Plaza
+201|Bowl & Basket Greek Nonfat Yogurt Plain|$4.49|1|The Fresh Grocer of Progress Plaza
+202|Bowl & Basket Greek Nonfat Yogurt Strawberry|$4.49|1|The Fresh Grocer of Progress Plaza
+203|Bowl & Basket Greek Nonfat Yogurt Vanilla|$4.49|1|The Fresh Grocer of Progress Plaza
+204|Bowl & Basket Greek Nonfat Yogurt Vanilla|$4.49|1|The Fresh Grocer of Progress Plaza
+205|Bowl & Basket Greek Nonfat Yogurt Vanilla|$4.49|1|The Fresh Grocer of Progress Plaza
+206|Bowl & Basket Greek Yogurt Plain|$4.49|1|The Fresh Grocer of Progress Plaza
+207|Bowl & Basket Lowfat Yogurt Fruit on the Bottom Blueberry|$0.50|1|The Fresh Grocer of Progress Plaza
+208|Bowl & Basket Lowfat Yogurt Fruit on the Bottom Cherry|$0.50|1|The Fresh Grocer of Progress Plaza
+209|Bowl & Basket Lowfat Yogurt Fruit on the Bottom Mixed Berry|$0.50|1|The Fresh Grocer of Progress Plaza
+210|Bowl & Basket Lowfat Yogurt Fruit on the Bottom Peach|$0.50|1|The Fresh Grocer of Progress Plaza
+211|a2 Milk Milk|$3.99|1|The Fresh Grocer of Progress Plaza
+212|a2 Milk Milk|$3.99|1|The Fresh Grocer of Progress Plaza
+213|a2 Milk Milk|$3.99|1|The Fresh Grocer of Progress Plaza
+214|a2 Milk Milk|$3.99|1|The Fresh Grocer of Progress Plaza
+215|Bowl & Basket 1% Low Fat|$1.29|1|The Fresh Grocer of Progress Plaza
+216|Bowl & Basket 1% Low Fat|$1.29|1|The Fresh Grocer of Progress Plaza
+217|Bowl & Basket 1% Low Fat|$1.29|1|The Fresh Grocer of Progress Plaza
+218|Bowl & Basket Buttermilk|$1.99|1|The Fresh Grocer of Progress Plaza
+219|Bowl & Basket Chocolate Milk|$2.44|1|The Fresh Grocer of Progress Plaza
+220|Bowl & Basket Chocolate Milk|$0.74|1|The Fresh Grocer of Progress Plaza
+221|Bowl & Basket Chocolate Milk|$0.74|1|The Fresh Grocer of Progress Plaza
+222|Bowl & Basket Chocolate Milk|$0.74|1|The Fresh Grocer of Progress Plaza
+223|Bowl & Basket Chocolate Milk Low Fat|$4.37|1|The Fresh Grocer of Progress Plaza
+224|Bowl & Basket Milk 2% Reduced Fat|$0.69|1|The Fresh Grocer of Progress Plaza
+225|Bowl & Basket Milk Fat Free|$4.39|1|The Fresh Grocer of Progress Plaza
+226|Bowl & Basket Milk Fat Free|$2.39|1|The Fresh Grocer of Progress Plaza
+227|Bowl & Basket Milk Fat Free|$2.39|1|The Fresh Grocer of Progress Plaza
+228|Bowl & Basket Milk Fat Free|$2.39|1|The Fresh Grocer of Progress Plaza
+229|Bowl & Basket Milk Fat Free|$1.29|1|The Fresh Grocer of Progress Plaza
+230|Bowl & Basket Milk Lactose Free 1% Low Fat|$3.49|1|The Fresh Grocer of Progress Plaza
+231|Bowl & Basket Milk Lactose Free 2% Reduced Fat|$3.49|1|The Fresh Grocer of Progress Plaza
+232|Bowl & Basket Milk Lactose Free Calcium Enriched Fat Free|$3.49|1|The Fresh Grocer of Progress Plaza
+233|Bowl & Basket Milk Lactose Free Whole|$3.49|1|The Fresh Grocer of Progress Plaza
+234|Bowl & Basket Milk Lactose Free Whole|$3.49|1|The Fresh Grocer of Progress Plaza
+235|Bowl & Basket Milk Lactose Free Whole|$3.49|1|The Fresh Grocer of Progress Plaza
+236|Bowl & Basket Milk Low Fat|$2.39|1|The Fresh Grocer of Progress Plaza
+237|Bowl & Basket Milk Reduced Fat|$4.69|1|The Fresh Grocer of Progress Plaza
+238|Bowl & Basket Milk Reduced Fat|$2.49|1|The Fresh Grocer of Progress Plaza
+239|Bowl & Basket Milk Reduced Fat|$1.39|1|The Fresh Grocer of Progress Plaza
+240|Bowl & Basket Milk|$4.39|1|The Fresh Grocer of Progress Plaza
+241|Bowl & Basket Whole Milk|$4.99|1|The Fresh Grocer of Progress Plaza
+242|Bowl & Basket Whole Milk|$2.59|1|The Fresh Grocer of Progress Plaza
+243|Bowl & Basket Whole Milk|$1.49|1|The Fresh Grocer of Progress Plaza
+244|Chobani Lactose Free Half & Half|$4.49|1|The Fresh Grocer of Progress Plaza
+245|Fairlife 1% Milk|$4.49|1|The Fresh Grocer of Progress Plaza
+246|Fairlife 1% Milk|$4.49|1|The Fresh Grocer of Progress Plaza
+247|Fairlife 1% Milk|$4.49|1|The Fresh Grocer of Progress Plaza
+248|Fairlife 2% Reduced Fat Ultra-Filtered Milk|$4.99|1|The Fresh Grocer of Progress Plaza
+249|Fairlife 2% Reduced Fat Ultra-Filtered Milk|$4.49|1|The Fresh Grocer of Progress Plaza
+250|Fairlife DHA Omega-3 Whole Milk|$4.99|1|The Fresh Grocer of Progress Plaza
+251|Fairlife Fat Free Ultra-Filtered Milk|$4.49|1|The Fresh Grocer of Progress Plaza
+252|Fairlife Milk - Chocolate|$4.49|1|The Fresh Grocer of Progress Plaza
+253|Armour Lard|$2.99|1|The Fresh Grocer of Progress Plaza
+254|Armour Lard|$2.99|1|The Fresh Grocer of Progress Plaza
+255|Armour Lard|$2.99|1|The Fresh Grocer of Progress Plaza
+256|Blue Bonnet 41% Vegetable Oil Spread|$3.99|1|The Fresh Grocer of Progress Plaza
+257|Blue Bonnet 53% Vegetable Oil Spread|$1.29|1|The Fresh Grocer of Progress Plaza
+258|Blue Bonnet 53% Vegetable Oil Spread|$1.29|1|The Fresh Grocer of Progress Plaza
+259|Blue Bonnet 53% Vegetable Oil Spread|$1.29|1|The Fresh Grocer of Progress Plaza
+260|Bowl & Basket Butter Spreadable with Canola Oil|$2.69|1|The Fresh Grocer of Progress Plaza
+261|Bowl & Basket Butter Sweet Cream Salted|$3.99|1|The Fresh Grocer of Progress Plaza
+262|Bowl & Basket Butter Whipped Salted|$1.99|1|The Fresh Grocer of Progress Plaza
+263|Bowl & Basket Butter Whipped Salted|$1.99|1|The Fresh Grocer of Progress Plaza
+264|Bowl & Basket Butter Whipped Salted|$1.99|1|The Fresh Grocer of Progress Plaza
+265|Bowl & Basket Butter Whipped Unsalted|$1.99|1|The Fresh Grocer of Progress Plaza
+266|Bowl & Basket Specialty Garlic Butter|$4.49|1|The Fresh Grocer of Progress Plaza
+267|Bowl & Basket Spread|$3.49|1|The Fresh Grocer of Progress Plaza
+268|Bowl & Basket Spread|$1.19|1|The Fresh Grocer of Progress Plaza
+269|Bowl & Basket Spread|$1.19|1|The Fresh Grocer of Progress Plaza
+270|Bowl & Basket Spread|$1.19|1|The Fresh Grocer of Progress Plaza
+271|Bowl & Basket Sweet Cream Salted|$1.99|1|The Fresh Grocer of Progress Plaza
+272|Bowl & Basket Sweet Cream Unsalted|$1.99|1|The Fresh Grocer of Progress Plaza
+273|Bowl & Basket Sweet Cream Unsalted|$3.99|1|The Fresh Grocer of Progress Plaza
+274|Breakstone's Butter - Salted - All Natural|$2.99|1|The Fresh Grocer of Progress Plaza
+275|Breakstone's Butter - Unsalted - All Natural|$2.99|1|The Fresh Grocer of Progress Plaza
+276|Breakstone's Butter - Unsalted - All Natural|$2.99|1|The Fresh Grocer of Progress Plaza
+277|Breakstone's Butter - Unsalted - All Natural|$2.99|1|The Fresh Grocer of Progress Plaza
+278|Breakstone's Butter - Unsalted - All Natural|$5.19|1|The Fresh Grocer of Progress Plaza
+279|Breakstone's Salted Butter - All Natural|$5.19|1|The Fresh Grocer of Progress Plaza
+280|Breakstone's Whipped Butter - Salted - All Natural|$2.99|1|The Fresh Grocer of Progress Plaza
+281|Breakstone's Whipped Butter - Unsalted - All Natural|$2.99|1|The Fresh Grocer of Progress Plaza
+282|Brummel & Brown Original Buttery Spread with Real Yogurt|$3.99|1|The Fresh Grocer of Progress Plaza
+283|Country Crock Buttery Spread Churn Style|$5.99|1|The Fresh Grocer of Progress Plaza
+284|Country Crock Plant Butter|$3.99|1|The Fresh Grocer of Progress Plaza
+285|Country Crock Plant Butter|$2.99|1|The Fresh Grocer of Progress Plaza
+286|Earth Balance Buttery Spread Made with Olive Oil|$5.99|1|The Fresh Grocer of Progress Plaza
+287|Earth Balance Organic Whipped Buttery Spread|$5.99|1|The Fresh Grocer of Progress Plaza
+288|Earth Balance Organic Whipped Buttery Spread|$5.99|1|The Fresh Grocer of Progress Plaza
+289|Earth Balance Organic Whipped Buttery Spread|$5.99|1|The Fresh Grocer of Progress Plaza
+290|Earth Balance Original Buttery Spread|$5.99|1|The Fresh Grocer of Progress Plaza
+291|Earth Balance Soy Free Buttery Spread|$5.99|1|The Fresh Grocer of Progress Plaza
+292|Fleischmann's 65% Vegetable Oil Spread|$2.79|1|The Fresh Grocer of Progress Plaza
+293|Fleischmann's Margarine Unsalted Sticks|$2.79|1|The Fresh Grocer of Progress Plaza
+294|Fleischmann's Spread|$2.79|1|The Fresh Grocer of Progress Plaza
+295|Bob Evans Egg Whites|$3.49|1|The Fresh Grocer of Progress Plaza
+296|Bob Evans Egg Whites|$3.49|1|The Fresh Grocer of Progress Plaza
+297|Bob Evans Egg Whites|$3.49|1|The Fresh Grocer of Progress Plaza
+298|Bob Evans Egg Whites|$5.99|1|The Fresh Grocer of Progress Plaza
+299|Bowl & Basket Cage Free Grade A White Extra Large|$2.99|1|The Fresh Grocer of Progress Plaza
+300|Bowl & Basket Cage Free Grade A White Extra Large|$2.99|1|The Fresh Grocer of Progress Plaza
+301|Bowl & Basket Cage Free Grade A White Extra Large|$2.99|1|The Fresh Grocer of Progress Plaza
+302|Bowl & Basket Cage Free Liquid|$3.19|1|The Fresh Grocer of Progress Plaza
+303|Bowl & Basket Cage Free Liquid|$5.29|1|The Fresh Grocer of Progress Plaza
+304|Bowl & Basket Cage Free White Large|$3.99|1|The Fresh Grocer of Progress Plaza
+305|Bowl & Basket Cage Free White Large|$3.99|1|The Fresh Grocer of Progress Plaza
+306|Bowl & Basket Cage Free White Large|$3.99|1|The Fresh Grocer of Progress Plaza
+307|Bowl & Basket Cage Free|$2.99|1|The Fresh Grocer of Progress Plaza
+308|Bowl & Basket Eggs Cage Free Brown Large|$2.99|1|The Fresh Grocer of Progress Plaza
+309|Bowl & Basket Eggs Cage Free Hard-Cooked Peeled Medium|$2.49|1|The Fresh Grocer of Progress Plaza
+310|Bowl & Basket Eggs Fresh White Extra Large|$3.69|1|The Fresh Grocer of Progress Plaza
+311|Bowl & Basket Eggs Fresh White Extra Large|$3.69|1|The Fresh Grocer of Progress Plaza
+312|Bowl & Basket Eggs Fresh White Extra Large|$3.69|1|The Fresh Grocer of Progress Plaza
+313|Bowl & Basket Eggs Fresh White Jumbo|$3.79|1|The Fresh Grocer of Progress Plaza
+314|Bowl & Basket Eggs Fresh White Large|$7.99|1|The Fresh Grocer of Progress Plaza
+315|Bowl & Basket Eggs Fresh White Large|$2.19|1|The Fresh Grocer of Progress Plaza
+316|Bowl & Basket Eggs Fresh White Large|$3.59|1|The Fresh Grocer of Progress Plaza
+317|Bowl & Basket Specialty Free Range Fresh Brown Large|$3.49|1|The Fresh Grocer of Progress Plaza
+318|Bowl & Basket Specialty Free Range Fresh Brown Large|$3.49|1|The Fresh Grocer of Progress Plaza
+319|Bowl & Basket Specialty Free Range Fresh Brown Large|$3.49|1|The Fresh Grocer of Progress Plaza
+320|Bowl & Basket Specialty Pasture Raised Fresh Brown Large|$3.99|1|The Fresh Grocer of Progress Plaza
+321|Bowl & Basket White Eggs|$5.29|1|The Fresh Grocer of Progress Plaza
+322|Egg Beaters Original Cholesterol Free|$5.99|1|The Fresh Grocer of Progress Plaza
+323|Egg-Land's Best Egg Whites 100% Liquid|$5.99|1|The Fresh Grocer of Progress Plaza
+324|Egg-Land's Best Eggs|$3.99|1|The Fresh Grocer of Progress Plaza
+325|Egg-Land's Best Eggs|$5.49|1|The Fresh Grocer of Progress Plaza
+326|Eggland's Best Brown Eggs - Organic Grade A Large|$5.49|1|The Fresh Grocer of Progress Plaza
+327|Eggland's Best Eggs - Cage Free|$5.99|1|The Fresh Grocer of Progress Plaza
+328|Eggland's Best Eggs - Grade A Jumbo|$3.99|1|The Fresh Grocer of Progress Plaza
+329|Eggland's Best Eggs - Grade A Large Brown|$2.99|1|The Fresh Grocer of Progress Plaza
+330|Eggland's Best Eggs - Grade A Large Brown|$2.99|1|The Fresh Grocer of Progress Plaza
+331|Eggland's Best Eggs - Grade A Large Brown|$2.99|1|The Fresh Grocer of Progress Plaza
+332|Eggland's Best Eggs - Hard Cooked|$3.99|1|The Fresh Grocer of Progress Plaza
+333|Eggland's Best Extra Large White Grade A Eggs|$5.49|1|The Fresh Grocer of Progress Plaza
+334|Eggland's Best Extra Large White Grade A Eggs|$3.99|1|The Fresh Grocer of Progress Plaza
+335|Eggland's Best Large White Eggs|$4.99|1|The Fresh Grocer of Progress Plaza
+336|Eggland's Best Large White Eggs|$3.99|1|The Fresh Grocer of Progress Plaza
+337|Bowl & Basket Cheese Spread|$7.99|1|The Fresh Grocer of Progress Plaza
+338|Bowl & Basket Cheese Spread|$7.99|1|The Fresh Grocer of Progress Plaza
+339|Bowl & Basket Cheese Spread|$7.99|1|The Fresh Grocer of Progress Plaza
+340|Bowl & Basket Cheese|$1.49|1|The Fresh Grocer of Progress Plaza
+341|Bowl & Basket Cottage Cheese Fat Free Small Curd 0% Milkfat|$2.99|1|The Fresh Grocer of Progress Plaza
+342|Bowl & Basket Cottage Cheese Fat Free Small Curd 0% Milkfat|$2.99|1|The Fresh Grocer of Progress Plaza
+343|Bowl & Basket Cottage Cheese Fat Free Small Curd 0% Milkfat|$2.99|1|The Fresh Grocer of Progress Plaza
+344|Bowl & Basket Cottage Cheese Large Curd 4% Milkfat Minimum|$2.99|1|The Fresh Grocer of Progress Plaza
+345|Bowl & Basket Cottage Cheese Lowfat & No Salt Added Small Curd|$2.99|1|The Fresh Grocer of Progress Plaza
+346|Bowl & Basket Cottage Cheese Lowfat 1% Milkfat with Chives|$2.99|1|The Fresh Grocer of Progress Plaza
+347|Bowl & Basket Cottage Cheese Lowfat 1% Milkfat with Chives|$2.99|1|The Fresh Grocer of Progress Plaza
+348|Bowl & Basket Cottage Cheese Lowfat 1% Milkfat with Chives|$2.99|1|The Fresh Grocer of Progress Plaza
+349|Bowl & Basket Cottage Cheese Lowfat Small Curd 1% Milkfat|$2.99|1|The Fresh Grocer of Progress Plaza
+350|Bowl & Basket Cottage Cheese Small Curd 4% Milkfat Minimum|$2.99|1|The Fresh Grocer of Progress Plaza
+351|Bowl & Basket Cottage Cheese|$2.99|1|The Fresh Grocer of Progress Plaza
+352|Bowl & Basket Cream Cheese Light|$2.99|1|The Fresh Grocer of Progress Plaza
+353|Bowl & Basket Cream Cheese Light|$2.99|1|The Fresh Grocer of Progress Plaza
+354|Bowl & Basket Cream Cheese Light|$2.99|1|The Fresh Grocer of Progress Plaza
+355|Bowl & Basket Cream Cheese Strawberries|$2.99|1|The Fresh Grocer of Progress Plaza
+356|Bowl & Basket Cream Cheese|$2.99|1|The Fresh Grocer of Progress Plaza
+357|Bowl & Basket Cream Cheese|$1.49|1|The Fresh Grocer of Progress Plaza
+358|Bowl & Basket Cream Cheese|$2.99|1|The Fresh Grocer of Progress Plaza
+359|Bowl & Basket Cream Cheese|$3.79|1|The Fresh Grocer of Progress Plaza
+360|Bowl & Basket Cream Cheese|$3.79|1|The Fresh Grocer of Progress Plaza
+361|Bowl & Basket Cream Cheese|$3.79|1|The Fresh Grocer of Progress Plaza
+362|Bowl & Basket Cream Cheese|$3.99|1|The Fresh Grocer of Progress Plaza
+363|Bowl & Basket Plain Whipped Cream Cheese |$3.79|1|The Fresh Grocer of Progress Plaza
+364|Bowl & Basket Plain Whipped|$2.99|1|The Fresh Grocer of Progress Plaza
+365|Breakstone's Cottage Cheese - Large Curd|$3.49|1|The Fresh Grocer of Progress Plaza
+366|Breakstone's Cottage Cheese - Live Active Lowfat|$3.69|1|The Fresh Grocer of Progress Plaza
+367|Breakstone's Cottage Cheese - Low Fat Small Curd Snack Size|$3.69|1|The Fresh Grocer of Progress Plaza
+368|Breakstone's Cottage Cheese - Lowfat Large Curd|$3.49|1|The Fresh Grocer of Progress Plaza
+369|Breakstone's Cottage Cheese - Lowfat Small Curd|$4.49|1|The Fresh Grocer of Progress Plaza
+370|Breakstone's Cottage Cheese - Small Curd Snack Size|$3.69|1|The Fresh Grocer of Progress Plaza
+371|Breakstone's Cottage Cheese|$3.49|1|The Fresh Grocer of Progress Plaza
+372|Breakstone's Cottage Cheese|$3.49|1|The Fresh Grocer of Progress Plaza
+373|Breakstone's Cottage Cheese|$3.49|1|The Fresh Grocer of Progress Plaza
+374|Breakstone's Cottage Doubles - Blueberry|$1.29|1|The Fresh Grocer of Progress Plaza
+375|Breakstone's Cottage Doubles - Peach|$1.29|1|The Fresh Grocer of Progress Plaza
+376|Breakstone's Cottage Doubles - Pineapple|$1.29|1|The Fresh Grocer of Progress Plaza
+377|Breakstone's Cottage Doubles - Raspberry|$1.29|1|The Fresh Grocer of Progress Plaza
+378|Breakstone's Cottage Doubles - Strawberry|$1.29|1|The Fresh Grocer of Progress Plaza
+379|Bowl & Basket Sour Cream Fat Free|$1.79|1|The Fresh Grocer of Progress Plaza
+380|Bowl & Basket Sour Cream Fat Free|$1.79|1|The Fresh Grocer of Progress Plaza
+381|Bowl & Basket Sour Cream Fat Free|$1.79|1|The Fresh Grocer of Progress Plaza
+382|Bowl & Basket Sour Cream Light|$1.79|1|The Fresh Grocer of Progress Plaza
+383|Bowl & Basket Sour Cream Natural|$0.99|1|The Fresh Grocer of Progress Plaza
+384|Bowl & Basket Sour Cream Natural|$0.99|1|The Fresh Grocer of Progress Plaza
+385|Bowl & Basket Sour Cream Natural|$0.99|1|The Fresh Grocer of Progress Plaza
+386|Bowl & Basket Sour Cream Natural|$1.79|1|The Fresh Grocer of Progress Plaza
+387|Bowl & Basket Sour Cream Natural|$2.69|1|The Fresh Grocer of Progress Plaza
+388|Breakstone's Sour Cream|$1.99|1|The Fresh Grocer of Progress Plaza
+389|Breakstone's Sour Cream|$1.99|1|The Fresh Grocer of Progress Plaza
+390|Breakstone's Sour Cream|$1.99|1|The Fresh Grocer of Progress Plaza
+391|Breakstone's Sour Cream - All Natural|$2.99|1|The Fresh Grocer of Progress Plaza
+392|Breakstone's Sour Cream - Reduced Fat|$1.99|1|The Fresh Grocer of Progress Plaza
+393|Breakstone's Sour Cream|$2.99|1|The Fresh Grocer of Progress Plaza
+394|Breakstone's Sour Cream|$2.99|1|The Fresh Grocer of Progress Plaza
+395|Breakstone's Sour Cream|$2.99|1|The Fresh Grocer of Progress Plaza
+396|Breakstone's Sour Cream|$2.99|1|The Fresh Grocer of Progress Plaza
+397|Daisy Light Sour Cream|$1.79|1|The Fresh Grocer of Progress Plaza
+398|Daisy Light Sour Cream|$1.99|1|The Fresh Grocer of Progress Plaza
+399|Daisy Light Sour Cream|$3.99|1|The Fresh Grocer of Progress Plaza
+400|Daisy Sour Cream|$1.79|1|The Fresh Grocer of Progress Plaza
+401|Daisy Sour Cream|$1.99|1|The Fresh Grocer of Progress Plaza
+402|Daisy Sour Cream|$1.99|1|The Fresh Grocer of Progress Plaza
+403|Daisy Sour Cream|$1.99|1|The Fresh Grocer of Progress Plaza
+404|Daisy Sour Cream|$3.99|1|The Fresh Grocer of Progress Plaza
+405|Daisy Sour Cream|$3.19|1|The Fresh Grocer of Progress Plaza
+406|Daisy Sour Cream|$5.99|1|The Fresh Grocer of Progress Plaza
+407|Daisy Sour Cream|$3.19|1|The Fresh Grocer of Progress Plaza
+408|Fage All Natural|$2.99|1|The Fresh Grocer of Progress Plaza
+409|Friendship Dairies Sour Cream|$1.49|1|The Fresh Grocer of Progress Plaza
+410|Friendship Dairies Sour Cream|$2.79|1|The Fresh Grocer of Progress Plaza
+411|Friendship Light Sour Cream|$2.79|1|The Fresh Grocer of Progress Plaza
+412|LACTAID Sour Cream|$2.99|1|The Fresh Grocer of Progress Plaza
+413|Penn Maid Sour Cream|$2.79|1|The Fresh Grocer of Progress Plaza
+414|Penn Maid Sour Cream|$2.79|1|The Fresh Grocer of Progress Plaza
+415|Penn Maid Sour Cream|$2.79|1|The Fresh Grocer of Progress Plaza
+416|Penn Maid Sour Cream|$1.79|1|The Fresh Grocer of Progress Plaza
+417|Penn Maid Sour Cream|$3.79|1|The Fresh Grocer of Progress Plaza
+418|Tofutti Sour Cream|$3.49|1|The Fresh Grocer of Progress Plaza
+419|Beyond Meat Beyond Chicken Breaded Tenders|$4.99|1|The Fresh Grocer of Progress Plaza
+420|Beyond Meat Beyond Chicken Breaded Tenders|$4.99|1|The Fresh Grocer of Progress Plaza
+421|Beyond Meat Beyond Chicken Breaded Tenders|$4.99|1|The Fresh Grocer of Progress Plaza
+422|Bowl & Basket  Chicken Split Breasts|$11.45 avg/ea|1|The Fresh Grocer of Progress Plaza
+423|Bowl & Basket Boneless and Skinless Chicken Breast Family Pack|$12.11 avg/ea|1|The Fresh Grocer of Progress Plaza
+424|Bowl & Basket Boneless and Skinless Chicken Breast Family Pack|$12.11 avg/ea|1|The Fresh Grocer of Progress Plaza
+425|Bowl & Basket Boneless and Skinless Chicken Breast Family Pack|$12.11 avg/ea|1|The Fresh Grocer of Progress Plaza
+426|Bowl & Basket Chicken Breast Strips|$4.49 avg/ea|1|The Fresh Grocer of Progress Plaza
+427|Bowl & Basket Chicken Breast Tenderloins |$8.86 avg/ea|1|The Fresh Grocer of Progress Plaza
+428|Bowl & Basket Chicken Breast Tenderloins|$4.49 avg/ea|1|The Fresh Grocer of Progress Plaza
+429|Bowl & Basket Chicken Breast Tenderloins|$4.49 avg/ea|1|The Fresh Grocer of Progress Plaza
+430|Bowl & Basket Chicken Breast Tenderloins|$4.49 avg/ea|1|The Fresh Grocer of Progress Plaza
+431|Bowl & Basket Chicken Breasts |$6.63 avg/ea|1|The Fresh Grocer of Progress Plaza
+432|Bowl & Basket Chicken Breasts|$4.49 avg/ea|1|The Fresh Grocer of Progress Plaza
+433|Bowl & Basket Chicken Drumsticks|$5.55 avg/ea|1|The Fresh Grocer of Progress Plaza
+434|Bowl & Basket Chicken Paws|$2.49 avg/ea|1|The Fresh Grocer of Progress Plaza
+435|Bowl & Basket Chicken Paws|$2.49 avg/ea|1|The Fresh Grocer of Progress Plaza
+436|Bowl & Basket Chicken Paws|$2.49 avg/ea|1|The Fresh Grocer of Progress Plaza
+437|Bowl & Basket Chicken Thighs|$6.28 avg/ea|1|The Fresh Grocer of Progress Plaza
+438|Bowl & Basket Chicken Thighs|$4.12 avg/ea|1|The Fresh Grocer of Progress Plaza
+439|Bowl & Basket Chicken Thighs|$6.19 avg/ea|1|The Fresh Grocer of Progress Plaza
+440|Bowl & Basket Chicken Wings|$7.58 avg/ea|1|The Fresh Grocer of Progress Plaza
+441|Bowl & Basket Chicken Wings|$14.66 avg/ea|1|The Fresh Grocer of Progress Plaza
+442|Bowl & Basket Chicken Wings|$14.66 avg/ea|1|The Fresh Grocer of Progress Plaza
+443|Bowl & Basket Chicken Wings|$14.66 avg/ea|1|The Fresh Grocer of Progress Plaza
+444|Bowl & Basket Chicken|$8.23 avg/ea|1|The Fresh Grocer of Progress Plaza
+445|Bowl & Basket Drumsticks|$3.04 avg/ea|1|The Fresh Grocer of Progress Plaza
+446|Empire Kosher Ground Turkey|$5.29|1|The Fresh Grocer of Progress Plaza
+447|Fresh Chicken Boneless Chicken Tenders|$4.19/lb|1|The Fresh Grocer of Progress Plaza
+448|Fresh Chicken Breasts - Boneless|$2.99/lb|1|The Fresh Grocer of Progress Plaza
+449|Fresh Chicken Chicken Fat For Stock|$1.49/lb|1|The Fresh Grocer of Progress Plaza
+450|Fresh Chicken Drumsticks|$10.00|1|The Fresh Grocer of Progress Plaza
+451|Fresh Chicken Drumsticks|$5.01 avg/ea|1|The Fresh Grocer of Progress Plaza
+452|Fresh Chicken Thighs|$10.00|1|The Fresh Grocer of Progress Plaza
+453|Fresh Chicken Thighs|$6.27 avg/ea|1|The Fresh Grocer of Progress Plaza
+454|Fresh Chicken Thighs|$6.27 avg/ea|1|The Fresh Grocer of Progress Plaza
+455|Fresh Chicken Thighs|$6.27 avg/ea|1|The Fresh Grocer of Progress Plaza
+456|Grade A Boneless Chicken Breast|$9.88 avg/ea|1|The Fresh Grocer of Progress Plaza
+457|Grade A Boneless Chicken Thighs|$11.23 avg/ea|1|The Fresh Grocer of Progress Plaza
+458|Grade A Chicken Breast Tenders|$9.88 avg/ea|1|The Fresh Grocer of Progress Plaza
+459|Oasis Halal Boneless Skinless Chicken Breast|$6.99 avg/ea|1|The Fresh Grocer of Progress Plaza
+460|Oasis Halal Chicken Breast Tenders|$4.49 avg/ea|1|The Fresh Grocer of Progress Plaza
+461|Beef Loin|$83.93 avg/ea|1|The Fresh Grocer of Progress Plaza
+462|Beef Loin|$83.93 avg/ea|1|The Fresh Grocer of Progress Plaza
+463|Beef Loin|$83.93 avg/ea|1|The Fresh Grocer of Progress Plaza
+464|Certified Angus Beef 85% Lean Ground Beef|$8.54 avg/ea|1|The Fresh Grocer of Progress Plaza
+465|Certified Angus Beef 85% Lean Ground Patties|$8.05 avg/ea|1|The Fresh Grocer of Progress Plaza
+466|Certified Angus Beef 85% Lean Ground Patties|$8.05 avg/ea|1|The Fresh Grocer of Progress Plaza
+467|Certified Angus Beef 85% Lean Ground Patties|$8.05 avg/ea|1|The Fresh Grocer of Progress Plaza
+468|Certified Angus Beef Bone-In Rib Club Steak|$11.49/lb|1|The Fresh Grocer of Progress Plaza
+469|Certified Angus Beef Boneless|$13.99/lb|1|The Fresh Grocer of Progress Plaza
+470|Certified Angus Beef Bottom Round Roast|$20.22 avg/ea|1|The Fresh Grocer of Progress Plaza
+471|Certified Angus Beef Bottom Round Roast|$20.22 avg/ea|1|The Fresh Grocer of Progress Plaza
+472|Certified Angus Beef Bottom Round Roast|$20.22 avg/ea|1|The Fresh Grocer of Progress Plaza
+473|Certified Angus Beef Loin Porterhouse Steak|$13.99 avg/ea|1|The Fresh Grocer of Progress Plaza
+474|Certified Angus Beef Loin|$13.99 avg/ea|1|The Fresh Grocer of Progress Plaza
+475|Certified Angus Beef New York Strip Steak|$19.59 avg/ea|1|The Fresh Grocer of Progress Plaza
+476|Certified Angus Beef New York Strip Steak|$29.98 avg/ea|1|The Fresh Grocer of Progress Plaza
+477|Certified Angus Beef New York Strip Steak|$29.98 avg/ea|1|The Fresh Grocer of Progress Plaza
+478|Certified Angus Beef New York Strip Steak|$29.98 avg/ea|1|The Fresh Grocer of Progress Plaza
+479|Certified Angus Beef Rump Roast|$21.81 avg/ea|1|The Fresh Grocer of Progress Plaza
+480|Clayton's Organic Beef Organic Ground Beef|$6.49|1|The Fresh Grocer of Progress Plaza
+481|D'Artagnan Andouille Sausage|$6.99|1|The Fresh Grocer of Progress Plaza
+482|D'Artagnan Chorizo|$6.99|1|The Fresh Grocer of Progress Plaza
+483|Excel 81% Ground Beef Round Chub|$10.99|1|The Fresh Grocer of Progress Plaza
+484|Excel 81% Ground Beef Round Chub|$10.99|1|The Fresh Grocer of Progress Plaza
+485|Excel 81% Ground Beef Round Chub|$10.99|1|The Fresh Grocer of Progress Plaza
+486|Fresh 80% Ground Beef Patties|$4.69/lb|1|The Fresh Grocer of Progress Plaza
+487|Fresh 80% Lean Ground Beef|$6.10 avg/ea|1|The Fresh Grocer of Progress Plaza
+488|Fresh 93% Lean Ground Beef|$8.99 avg/ea|1|The Fresh Grocer of Progress Plaza
+489|Fresh Beef Oxtails|$12.99/lb|1|The Fresh Grocer of Progress Plaza
+490|Fresh Family Pack|$15.02 avg/ea|1|The Fresh Grocer of Progress Plaza
+491|Freshly Ground Beef|$7.79 avg/ea|1|The Fresh Grocer of Progress Plaza
+492|Freshly Ground Beef|$14.37 avg/ea|1|The Fresh Grocer of Progress Plaza
+493|Ground Beef 75% Lean|$3.39/lb|1|The Fresh Grocer of Progress Plaza
+494|Ground Beef 75% Lean|$9.18 avg/ea|1|The Fresh Grocer of Progress Plaza
+495|jp o'reilly's usda choice corned beef brisket|$18.57 avg/ea|1|The Fresh Grocer of Progress Plaza
+496|jp o'reilly's usda choice corned beef brisket|$18.57 avg/ea|1|The Fresh Grocer of Progress Plaza
+497|jp o'reilly's usda choice corned beef brisket|$18.57 avg/ea|1|The Fresh Grocer of Progress Plaza
+498|Laura's Lean Beef Beef - Ground|$7.99|1|The Fresh Grocer of Progress Plaza
+499|Laura's Lean Beef Patties|$8.49|1|The Fresh Grocer of Progress Plaza
+500|Nature's Reserve 85% Map Pack Patties|$7.99|1|The Fresh Grocer of Progress Plaza
+501|Nature's Reserve 93% Lean|$7.49|1|The Fresh Grocer of Progress Plaza
+502|Nature's Reserve Grass Fed Beef Boneless Club Steak|$4.89 avg/ea|1|The Fresh Grocer of Progress Plaza
+503|Arnold's Scrapple|$2.49|1|The Fresh Grocer of Progress Plaza
+504|Arnold's Scrapple|$2.49|1|The Fresh Grocer of Progress Plaza
+505|Arnold's Scrapple|$2.49|1|The Fresh Grocer of Progress Plaza
+506|Arnold's Turkey Scrapple|$3.99|1|The Fresh Grocer of Progress Plaza
+507|Bone In Pork Assorted Pork Chops|$2.99/lb|1|The Fresh Grocer of Progress Plaza
+508|Bone In Pork Assorted Pork Chops|$2.99/lb|1|The Fresh Grocer of Progress Plaza
+509|Bone In Pork Assorted Pork Chops|$2.99/lb|1|The Fresh Grocer of Progress Plaza
+510|Bone In Pork Loin End Chops|$3.21 avg/ea|1|The Fresh Grocer of Progress Plaza
+511|Bone In Pork Pork Spare Ribs|$3.49/lb|1|The Fresh Grocer of Progress Plaza
+512|Boneless Pork Center Cut Thin Chops|$5.99/lb|1|The Fresh Grocer of Progress Plaza
+513|Boneless Pork Center Cut Thin Chops|$5.99/lb|1|The Fresh Grocer of Progress Plaza
+514|Boneless Pork Center Cut Thin Chops|$5.99/lb|1|The Fresh Grocer of Progress Plaza
+515|Boneless Pork Shoulder Boned & Rolled|$15.35 avg/ea|1|The Fresh Grocer of Progress Plaza
+516|Fresh Bone-In|$4.49 avg/ea|1|The Fresh Grocer of Progress Plaza
+517|Fresh Bone-In|$3.98 avg/ea|1|The Fresh Grocer of Progress Plaza
+518|Fresh Boneless Center Cut Pork Chops|$16.77 avg/ea|1|The Fresh Grocer of Progress Plaza
+519|Fresh Boneless Center Cut Pork Chops|$16.77 avg/ea|1|The Fresh Grocer of Progress Plaza
+520|Fresh Boneless Center Cut Pork Chops|$16.77 avg/ea|1|The Fresh Grocer of Progress Plaza
+521|Fresh Boneless Pork Chops|$8.48 avg/ea|1|The Fresh Grocer of Progress Plaza
+522|Fresh Boneless Pork Chops|$6.71 avg/ea|1|The Fresh Grocer of Progress Plaza
+523|Fresh Boneless Pork Country Style Ribs|$3.99 avg/ea|1|The Fresh Grocer of Progress Plaza
+524|Fresh Boneless Pork Loin Roast|$13.97 avg/ea|1|The Fresh Grocer of Progress Plaza
+525|Fresh Boneless Pork Tenderloin|$9.42 avg/ea|1|The Fresh Grocer of Progress Plaza
+526|Fresh Boneless Pork Tenderloin|$9.42 avg/ea|1|The Fresh Grocer of Progress Plaza
+527|Fresh Boneless Pork Tenderloin|$9.42 avg/ea|1|The Fresh Grocer of Progress Plaza
+528|Fresh Center Cut Pork Rib Chop|$6.34 avg/ea|1|The Fresh Grocer of Progress Plaza
+529|Fresh Pig Feet|$5.54 avg/ea|1|The Fresh Grocer of Progress Plaza
+530|Fresh Pork Center Cut|$4.84 avg/ea|1|The Fresh Grocer of Progress Plaza
+531|Fresh Pork Neck bones|$1.98 avg/ea|1|The Fresh Grocer of Progress Plaza
+532|Fresh Pork Neck Bones|$5.01 avg/ea|1|The Fresh Grocer of Progress Plaza
+533|Fresh Pork Shoulder Picnic|$4.73 avg/ea|1|The Fresh Grocer of Progress Plaza
+534|Fresh Pork Shoulder|$4.92 avg/ea|1|The Fresh Grocer of Progress Plaza
+535|Fresh Pork Spare Ribs|$13.97 avg/ea|1|The Fresh Grocer of Progress Plaza
+536|Fresh Pork Spare Ribs|$10.33 avg/ea|1|The Fresh Grocer of Progress Plaza
+537|Fresh Pork Toes|$2.59 avg/ea|1|The Fresh Grocer of Progress Plaza
+538|Fresh Pork Toes|$2.59 avg/ea|1|The Fresh Grocer of Progress Plaza
+539|Fresh Pork Toes|$2.59 avg/ea|1|The Fresh Grocer of Progress Plaza
+540|Fresh Pork|$11.92 avg/ea|1|The Fresh Grocer of Progress Plaza
+541|Fresh Rib End Pork Chops|$5.57 avg/ea|1|The Fresh Grocer of Progress Plaza
+542|Fresh Sliced|$13.47 avg/ea|1|The Fresh Grocer of Progress Plaza
+543|Fresh Smoked Pork Neckbone|$2.99/lb|1|The Fresh Grocer of Progress Plaza
+544|Hatfield Dry Rub Savory Brown Sugar Loin Filet|$5.99|1|The Fresh Grocer of Progress Plaza
+545|Butterball 85%  Ground Turkey|$11.97|1|The Fresh Grocer of Progress Plaza
+546|Butterball 85%  Ground Turkey|$11.97|1|The Fresh Grocer of Progress Plaza
+547|Butterball 85%  Ground Turkey|$11.97|1|The Fresh Grocer of Progress Plaza
+548|Butterball Breast Roast Meat Boneless Turkey|$11.99|1|The Fresh Grocer of Progress Plaza
+549|Butterball Farm to Family Turkey|$5.49|1|The Fresh Grocer of Progress Plaza
+550|Butterball Farm to Family Turkey|$5.49|1|The Fresh Grocer of Progress Plaza
+551|Butterball Farm to Family Turkey|$5.49|1|The Fresh Grocer of Progress Plaza
+552|Butterball Ground Turkey - 93% Lean|$4.99|1|The Fresh Grocer of Progress Plaza
+553|Butterball Organic Ground Turkey|$7.99|1|The Fresh Grocer of Progress Plaza
+554|Butterball Turkey Breast - Bone In|$3.29|1|The Fresh Grocer of Progress Plaza
+555|Butterball Turkey Breast - Bone In|$3.29|1|The Fresh Grocer of Progress Plaza
+556|Butterball Turkey Breast - Bone In|$3.29|1|The Fresh Grocer of Progress Plaza
+557|Butterball Turkey Tenderloions|$9.99|1|The Fresh Grocer of Progress Plaza
+558|Fresh Smoked Turkey Tails|$9.18 avg/ea|1|The Fresh Grocer of Progress Plaza
+559|Fresh Smoked Turkey Wing Chunks|$2.99/lb|1|The Fresh Grocer of Progress Plaza
+560|Halal Turkey Drums|$2.79/lb|1|The Fresh Grocer of Progress Plaza
+561|Halal Turkey Drums|$2.79/lb|1|The Fresh Grocer of Progress Plaza
+562|Halal Turkey Drums|$2.79/lb|1|The Fresh Grocer of Progress Plaza
+563|Halal Turkey Wings|$2.99/lb|1|The Fresh Grocer of Progress Plaza
+564|Jennie-O 95% Fat Free Turkey Pastrami|$6.99|1|The Fresh Grocer of Progress Plaza
+565|Jennie-O Lean Ground Turkey|$4.49|1|The Fresh Grocer of Progress Plaza
+566|Jennie-O Oven Roasted Turkey Breast|$6.49/lb|1|The Fresh Grocer of Progress Plaza
+567|Jennie-O Turkey Ham|$6.28 avg/ea|1|The Fresh Grocer of Progress Plaza
+568|Jennie-O Turkey Ham|$6.28 avg/ea|1|The Fresh Grocer of Progress Plaza
+569|Jennie-O Turkey Ham|$6.28 avg/ea|1|The Fresh Grocer of Progress Plaza
+570|Prestage Foods Halal Poultry|$3.49|1|The Fresh Grocer of Progress Plaza
+571|Shady Brook Farms Bone-In|$19.44 avg/ea|1|The Fresh Grocer of Progress Plaza
+572|Shady Brook Farms Boneless Turkey Chops|$6.59 avg/ea|1|The Fresh Grocer of Progress Plaza
+573|Shady Brook Farms Fresh 85% Lean Ground Turkey|$9.99|1|The Fresh Grocer of Progress Plaza
+574|Shady Brook Farms Fresh 93% Lean Ground Turkey|$5.49|1|The Fresh Grocer of Progress Plaza
+575|Shady Brook Farms Fresh Italian Turkey Hot Sausage|$3.99|1|The Fresh Grocer of Progress Plaza
+576|Shady Brook Farms Fresh Sweet Italian Turkey Sausage|$3.99|1|The Fresh Grocer of Progress Plaza
+577|Shady Brook Farms Frozen Turkey Breast|$11.94 avg/ea|1|The Fresh Grocer of Progress Plaza
+578|Shady Brook Farms Italian Style Turkey Meatballs|$3.99|1|The Fresh Grocer of Progress Plaza
+579|ShopRite Frozen Turkey Breast|$11.94 avg/ea|1|The Fresh Grocer of Progress Plaza
+580|ShopRite Frozen Turkey Breast|$11.94 avg/ea|1|The Fresh Grocer of Progress Plaza
+581|ShopRite Frozen Turkey Breast|$11.94 avg/ea|1|The Fresh Grocer of Progress Plaza
+582|ShopRite Ground Turkey|$3.22 avg/ea|1|The Fresh Grocer of Progress Plaza
+583|ShopRite Turkey Chops - Bone In|$3.99/lb|1|The Fresh Grocer of Progress Plaza
+584|ShopRite Turkey Drums|$5.65 avg/ea|1|The Fresh Grocer of Progress Plaza
+585|ShopRite Turkey Thighs|$5.65 avg/ea|1|The Fresh Grocer of Progress Plaza
+586|ShopRite Turkey Wings|$2.69/lb|1|The Fresh Grocer of Progress Plaza
