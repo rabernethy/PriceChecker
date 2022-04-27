@@ -1,6 +1,11 @@
 
+from crypt import methods
+from math import prod
+from os import pathconf_names
+import re
 import sqlite3, json
 from flask import g, Flask
+from requests import request
 
 
 app = Flask(__name__)
@@ -40,4 +45,23 @@ def get_products():
         products.append(product)
     return json.dumps(products)
 
+#recipes(name text, ingredients text, servings int, directions text)
+@app.route('/recipes')
+def get_recipes():
+    recipes = []
+    for recipe in query_db('select * from recipes'):
+        recipes.append(recipe)
+    return json.dumps(recipes)
+
+#needs fixing ...
+@app.route('/add')
+def add_product():
+
+    product_id = request.form['ProductId']
+    product_name = request.form['ProductName']
+    price = request.form['Price']
+    vendor_id = request.form['VendorId']
+    vendor_name = request.form['VendorName']
+
+    query_db("insert into products(product_id,product_name,price,vendor_name,vendor_id) values ({pid},{pname},{price},{vname},{vid})".format(pid=product_id,pname=product_name,price=price,vname=vendor_name,vid=vendor_id))
 
