@@ -6,6 +6,8 @@ import javafx.scene.input.KeyEvent;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.GridPane;
+import java.io.IOException;
+import java.net.*;
 import java.util.LinkedList;
 
 public class CustomerController {
@@ -16,12 +18,11 @@ public class CustomerController {
     LinkedList<Double> distance = new LinkedList<Double>();
     LinkedList<Boolean> isHealthy = new LinkedList<Boolean>();
     Label[][] gridLabels = new Label[5][5];
-    int numItems = 0;
+    int numItems = 0, numCart = 0;
     int maximumDistance;
 
-
     @FXML
-    private Button firstButton;
+    private Button BuRow0, BuRow1, BuRow2, BuRow3, BuRow4, BuRow5, BuRow6, BuRow7, BuRow8, BuRow9, BuRow10;
 
     @FXML
     private Button loadData;
@@ -33,23 +34,106 @@ public class CustomerController {
     private Label label1;
 
     @FXML
-    public GridPane currentMarket;
+    public GridPane currentMarket, currentCart;
 
     //When the add button next to an item is clicked, add it to the cart
     @FXML
     public void addToCart(MouseEvent mouseEvent) {
-        if (mouseEvent.getSource() == firstButton) {
-            label1.setVisible(true);
+        Label itemName = null, itemPrice = null, dist = null, healthy = null;
+        if (mouseEvent.getSource() == BuRow0) {
+            itemName = new Label(name.get(0));
+            itemPrice = new Label("" + price.get(0));
+            dist = new Label("" + distance.get(0));
+            healthy = new Label("" + isHealthy.get(0));
         }
+        if (mouseEvent.getSource() == BuRow1) {
+            itemName = new Label(name.get(1));
+            itemPrice = new Label("" + price.get(1));
+            dist = new Label("" + distance.get(1));
+            healthy = new Label("" + isHealthy.get(1));
+        }
+        if (mouseEvent.getSource() == BuRow2) {
+            itemName = new Label(name.get(2));
+            itemPrice = new Label("" + price.get(2));
+            dist = new Label("" + distance.get(2));
+            healthy = new Label("" + isHealthy.get(2));
+        }
+        if (mouseEvent.getSource() == BuRow3) {
+            itemName = new Label(name.get(3));
+            itemPrice = new Label("" + price.get(3));
+            dist = new Label("" + distance.get(3));
+            healthy = new Label("" + isHealthy.get(3));
+        }
+        if (mouseEvent.getSource() == BuRow4) {
+            itemName = new Label(name.get(4));
+            itemPrice = new Label("" + price.get(4));
+            dist = new Label("" + distance.get(4));
+            healthy = new Label("" + isHealthy.get(4));
+        }
+        if (mouseEvent.getSource() == BuRow5) {
+            itemName = new Label(name.get(5));
+            itemPrice = new Label("" + price.get(5));
+            dist = new Label("" + distance.get(5));
+            healthy = new Label("" + isHealthy.get(5));
+        }
+        if (mouseEvent.getSource() == BuRow6) {
+            itemName = new Label(name.get(6));
+            itemPrice = new Label("" + price.get(6));
+            dist = new Label("" + distance.get(6));
+            healthy = new Label("" + isHealthy.get(6));
+        }
+        if (mouseEvent.getSource() == BuRow7) {
+            itemName = new Label(name.get(7));
+            itemPrice = new Label("" + price.get(7));
+            dist = new Label("" + distance.get(7));
+            healthy = new Label("" + isHealthy.get(7));
+        }
+        if (mouseEvent.getSource() == BuRow8) {
+            itemName = new Label(name.get(8));
+            itemPrice = new Label("" + price.get(8));
+            dist = new Label("" + distance.get(8));
+            healthy = new Label("" + isHealthy.get(8));
+        }
+        if (mouseEvent.getSource() == BuRow9) {
+            itemName = new Label(name.get(9));
+            itemPrice = new Label("" + price.get(9));
+            dist = new Label("" + distance.get(9));
+            healthy = new Label("" + isHealthy.get(9));
+        }
+        if (mouseEvent.getSource() == BuRow10) {
+            itemName = new Label(name.get(10));
+            itemPrice = new Label("" + price.get(10));
+            dist = new Label("" + distance.get(10));
+            healthy = new Label("" + isHealthy.get(10));
+        }
+        currentCart.add(itemName, 0, numCart);
+        currentCart.add(itemPrice, 1, numCart);
+        currentCart.add(dist, 2, numCart);
+        currentCart.add(healthy, 3, numCart);
+        numCart++;
     }
-
-    public void loadDataIntoGrid(MouseEvent mouseEvent) {
+    public void loadDataIntoGrid(MouseEvent mouseEvent) throws IOException {
         if (mouseEvent.getSource() == loadData) {
             addToList("Apple",2, 2.3, true);
             addToList("Banana",3, 3.1, true);
             addToList("Banana",6, 4.5, true);
             addToList("Carrots",4, 2.5, true);
             addToList("Snickers",1, 1.2, false);
+
+            /*
+            URL url = new URL("http://127.0.0.1:5000/products");
+            HttpURLConnection con = (HttpURLConnection) url.openConnection();
+            con.setRequestMethod("GET");
+
+            BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));
+            String inputLine;
+            StringBuffer content = new StringBuffer();
+            while ((inputLine = in.readLine()) != null) {
+                content.append(inputLine);
+            }
+            in.close();
+            con.disconnect();
+            System.out.println(content);*/
         }
     }
 
