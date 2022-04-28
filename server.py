@@ -1,5 +1,4 @@
 
-from crypt import methods
 from math import prod
 from os import pathconf_names
 import re
