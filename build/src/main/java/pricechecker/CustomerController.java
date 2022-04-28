@@ -2,6 +2,8 @@ package pricechecker;
 import java.io.*;
 
 import com.google.gson.Gson;
+import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
 import javafx.scene.input.KeyEvent;
@@ -28,16 +30,22 @@ public class CustomerController {
     private Button BuRow0, BuRow1, BuRow2, BuRow3, BuRow4, BuRow5, BuRow6, BuRow7, BuRow8, BuRow9, BuRow10;
 
     @FXML
+    private Button recipeBu0, recipeBu1, recipeBu2, recipeBu3, recipeBu4, recipeBu5, recipeBu6, recipeBu7, recipeBu8, recipeBu9, recipeBu10;
+
+    @FXML
     private Button loadData;
 
     @FXML
     private TextField maxDist;
 
     @FXML
-    private Label label1;
+    public GridPane currentMarket, currentCart;
 
     @FXML
-    public GridPane currentMarket, currentCart;
+    private ScrollPane chickenScroll, pizzaScroll;
+
+    @FXML
+    private Button setChicken, setPizza;
 
     //When the add button next to an item is clicked, add it to the cart
     @FXML
@@ -407,5 +415,92 @@ public class CustomerController {
         distance.set(index2, dist1);
         isHealthy.set(index1, health2);
         isHealthy.set(index2, health1);
+    }
+
+    public void fromRecipeToCart(MouseEvent mouseEvent) {
+        Label itemName = null, itemPrice = null, dist = null, healthy = null;
+        if (mouseEvent.getSource() == recipeBu0) {
+            itemName = new Label("Vegetable Oil");
+            itemPrice = new Label("" + 3.99);
+            dist = new Label("" + 1.0);
+            healthy = new Label("" + true);
+        }
+        if (mouseEvent.getSource() == recipeBu1) {
+            itemName = new Label("Minced Garlic");
+            itemPrice = new Label("" + 2.50);
+            dist = new Label("" + 1.0);
+            healthy = new Label("" + false);
+        }
+        if (mouseEvent.getSource() == recipeBu2) {
+            itemName = new Label("Diced Tomatoes");
+            itemPrice = new Label("" + 1.49);
+            dist = new Label("" + 2.3);
+            healthy = new Label("" + true);
+        }
+        if (mouseEvent.getSource() == recipeBu3) {
+            itemName = new Label("Assorted Vegetables");
+            itemPrice = new Label("" + 5.99);
+            dist = new Label("" + 2.3);
+            healthy = new Label("" + true);
+        }
+        if (mouseEvent.getSource() == recipeBu4) {
+            itemName = new Label("Cooked Brown Rice");
+            itemPrice = new Label("" + 1.99);
+            dist = new Label("" + 3.0);
+            healthy = new Label("" + true);
+        }
+        if (mouseEvent.getSource() == recipeBu5) {
+            itemName = new Label("Tomato Sauce");
+            itemPrice = new Label("" + 2.49);
+            dist = new Label("" + 0.8);
+            healthy = new Label("" + true);
+        }
+        if (mouseEvent.getSource() == recipeBu6) {
+            System.out.println("Pressed Chicken Breast");
+            itemName = new Label("Chicken Breast");
+            itemPrice = new Label("" + 6.63);
+            dist = new Label("" + 2.0);
+            healthy = new Label("" + true);
+        }
+        if (mouseEvent.getSource() == recipeBu7) {
+            itemName = new Label("Cooked Broccoli");
+            itemPrice = new Label("" + 2.99);
+            dist = new Label("" + 2.0);
+            healthy = new Label("" + true);
+        }
+        if (mouseEvent.getSource() == recipeBu8) {
+            itemName = new Label("Parmesan Cheese");
+            itemPrice = new Label("" + 4.49);
+            dist = new Label("" + 3.6);
+            healthy = new Label("" + false);
+        }
+        if (mouseEvent.getSource() == recipeBu9) {
+            itemName = new Label("Fresh Basil");
+            itemPrice = new Label("" + 1.25);
+            dist = new Label("" + 3.6);
+            healthy = new Label("" + true);
+        }
+        if (mouseEvent.getSource() == recipeBu10) {
+            itemName = new Label("Whole Wheat Pitas");
+            itemPrice = new Label("" + 8.99);
+            dist = new Label("" + 3.9);
+            healthy = new Label("" + true);
+        }
+        currentCart.add(itemName, 0, numCart);
+        currentCart.add(itemPrice, 1, numCart);
+        currentCart.add(dist, 2, numCart);
+        currentCart.add(healthy, 3, numCart);
+        numCart++;
+    }
+
+    public void setRecipe(MouseEvent mouseEvent) {
+        if (mouseEvent.getSource() == setChicken) {
+            pizzaScroll.setVisible(false);
+            chickenScroll.setVisible(true);
+        }
+        else if(mouseEvent.getSource() == setPizza) {
+            chickenScroll.setVisible(false);
+            pizzaScroll.setVisible(true);
+        }
     }
 }

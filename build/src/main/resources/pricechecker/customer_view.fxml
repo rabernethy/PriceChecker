@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.geometry.*?>
 <?import java.lang.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="480.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pricechecker.CustomerController">
    <children>
-      <Button layoutX="14.0" layoutY="14.0" mnemonicParsing="false" text="Upload" />
-      <ScrollPane layoutX="170.0" layoutY="25.0" maxWidth="-Infinity" prefHeight="350.0" prefWidth="370.0" AnchorPane.rightAnchor="460.0">
+      <ScrollPane hmax="2.0" layoutX="170.0" layoutY="25.0" maxWidth="-Infinity" prefHeight="350.0" prefViewportHeight="350.0" prefViewportWidth="600.0" prefWidth="370.0" vmax="2.0" AnchorPane.rightAnchor="460.0">
         <content>
-          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="350.0" prefWidth="370.0">
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="350.0">
                <children>
                   <GridPane fx:id="currentMarket" gridLinesVisible="true">
                     <columnConstraints>
@@ -50,10 +50,151 @@
             </AnchorPane>
         </content>
       </ScrollPane>
-      <Button layoutX="91.0" layoutY="14.0" mnemonicParsing="false" text="Create" />
-      <ScrollPane layoutX="8.0" layoutY="55.0" prefHeight="320.0" prefWidth="150.0">
+      <ScrollPane fx:id="pizzaScroll" layoutX="14.0" layoutY="25.0" prefHeight="350.0" prefWidth="150.0">
         <content>
-          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="320.0" prefWidth="150.0" />
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="350.0">
+               <children>
+                  <GridPane>
+                    <columnConstraints>
+                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                     <children>
+                        <Label text="Preheat oven or toaster oven to 450." />
+                        <Label text="For each pizza, spread tomato sauce on a pita and top with chicken, broccoli,  parmesan cheese, and chopped basil." GridPane.rowIndex="1" />
+                        <Label text="Place pitas on a nonstick baking sheet and bake for about 5.5 minutes until golden brown and chicken is heated through. Serve immediately." GridPane.rowIndex="2" />
+                     </children>
+                  </GridPane>
+                  <GridPane gridLinesVisible="true" layoutX="6.0" layoutY="90.0">
+                    <columnConstraints>
+                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
+                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="180.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                     <children>
+                        <Label text="Tomato Sauce" GridPane.columnIndex="1" />
+                        <Button fx:id="recipeBu5" mnemonicParsing="false" onMouseClicked="#fromRecipeToCart" text="Add" />
+                        <Button fx:id="recipeBu6" mnemonicParsing="false" onMouseClicked="#fromRecipeToCart" text="Add" GridPane.rowIndex="1" />
+                        <Button fx:id="recipeBu7" mnemonicParsing="false" onMouseClicked="#fromRecipeToCart" text="Add" GridPane.rowIndex="2" />
+                        <Label text="2.49" GridPane.columnIndex="2" />
+                        <Label text="0.8" GridPane.columnIndex="3" />
+                        <Label text="true" GridPane.columnIndex="4" />
+                        <Label text="Chicken Breast" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                        <Label text="6.63" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+                        <Label text="2.0" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+                        <Label text="true" GridPane.columnIndex="4" GridPane.rowIndex="1" />
+                        <Label text="Cooked Broccoli" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                        <Label text="2.99" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+                        <Label text="2.0" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+                        <Label text="true" GridPane.columnIndex="4" GridPane.rowIndex="2" />
+                        <Label text="Parmesan Cheese" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                        <Button fx:id="recipeBu8" mnemonicParsing="false" onMouseClicked="#fromRecipeToCart" text="Add" GridPane.rowIndex="3" />
+                        <Button fx:id="recipeBu9" mnemonicParsing="false" onMouseClicked="#fromRecipeToCart" text="Add" GridPane.rowIndex="4" />
+                        <Label text="4.49" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+                        <Label text="3.6" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+                        <Label text="false" GridPane.columnIndex="4" GridPane.rowIndex="3" />
+                        <Button fx:id="recipeBu10" mnemonicParsing="false" onMouseClicked="#fromRecipeToCart" text="Add" GridPane.rowIndex="5" />
+                        <Label text="Fresh Basil" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                        <Label text="1.25" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+                        <Label text="3.6" GridPane.columnIndex="3" GridPane.rowIndex="4" />
+                        <Label text="true" GridPane.columnIndex="4" GridPane.rowIndex="4" />
+                        <Label text="Whole Wheat Pitas" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+                        <Label text="8.99" GridPane.columnIndex="2" GridPane.rowIndex="5" />
+                        <Label text="3.9" GridPane.columnIndex="3" GridPane.rowIndex="5" />
+                        <Label text="true" GridPane.columnIndex="4" GridPane.rowIndex="5" />
+                     </children>
+                  </GridPane>
+               </children>
+            </AnchorPane>
+        </content>
+      </ScrollPane>
+      <ScrollPane fx:id="chickenScroll" layoutX="14.0" layoutY="25.0" prefHeight="350.0" prefWidth="150.0" visible="false">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="350.0">
+               <children>
+                  <GridPane>
+                    <columnConstraints>
+                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                     <children>
+                        <Label text="Heat oil in a large wok or saute pan" />
+                        <Label text="Add garlic, and cook over medium heat until soft, but not browned, about 1 minute" GridPane.rowIndex="1" />
+                        <Label text="Add tomatoes, and continue to cook until they become slightly dry, about 5 minutes" GridPane.rowIndex="2" />
+                        <Label text="Add vegetables, and cook until heated through, about 3.5 minutes." GridPane.rowIndex="3" />
+                        <Label text="Add rice and chicken. Toss well, and cok until heated through, about 5 minutes." GridPane.rowIndex="4" />
+                        <Label text="Add soy sauce and sesame oil. Toss to incorporate, and serve." GridPane.rowIndex="5" />
+                     </children>
+                  </GridPane>
+                  <GridPane gridLinesVisible="true" layoutX="9.0" layoutY="175.0">
+                     <columnConstraints>
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="180.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
+                     </columnConstraints>
+                     <rowConstraints>
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                     </rowConstraints>
+                     <children>
+                        <Button mnemonicParsing="false" text="Add" />
+                        <Button fx:id="recipeBu1" mnemonicParsing="false" onMouseClicked="#fromRecipeToCart" text="Add" GridPane.rowIndex="1" />
+                        <Button fx:id="recipeBu2" mnemonicParsing="false" onMouseClicked="#fromRecipeToCart" text="Add" GridPane.rowIndex="2" />
+                        <Button fx:id="recipeBu3" mnemonicParsing="false" onMouseClicked="#fromRecipeToCart" text="Add" GridPane.rowIndex="3" />
+                        <Button fx:id="recipeBu4" mnemonicParsing="false" onMouseClicked="#fromRecipeToCart" text="Add" GridPane.rowIndex="4" />
+                        <Button fx:id="recipeBu0" mnemonicParsing="false" onMouseClicked="#fromRecipeToCart" text="Add" />
+                        <Label text="Vegetable Oil" GridPane.columnIndex="1" />
+                        <Label text="3.99" GridPane.columnIndex="2" />
+                        <Label text="1.0" GridPane.columnIndex="3" />
+                        <Label text="false" GridPane.columnIndex="4" />
+                        <Label text="Minced Garlic" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                        <Label text="2.50" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+                        <Label text="1.0" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+                        <Label text="false" GridPane.columnIndex="4" GridPane.rowIndex="1" />
+                        <Label text="Diced Tomatoes" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                        <Label text="1.49" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+                        <Label text="2.3" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+                        <Label text="true" GridPane.columnIndex="4" GridPane.rowIndex="2" />
+                        <Label text="Assorted Vegetables" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                        <Label text="5.99" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+                        <Label text="2.3" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+                        <Label text="true" GridPane.columnIndex="4" GridPane.rowIndex="3" />
+                        <Label text="Cooked Brown Rice" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                        <Label text="1.99" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+                        <Label text="3.0" GridPane.columnIndex="3" GridPane.rowIndex="4" />
+                        <Label text="true" GridPane.columnIndex="4" GridPane.rowIndex="4" />
+                     </children>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                  </GridPane>
+               </children></AnchorPane>
         </content>
       </ScrollPane>
       <ScrollPane fx:id="cartScroll" layoutX="552.0" layoutY="25.0" prefHeight="350.0" prefWidth="370.0">
@@ -100,5 +241,8 @@
       <Label layoutX="737.0" layoutY="4.0" text="Price" />
       <Label layoutX="777.0" layoutY="4.0" text="Distance" />
       <Label layoutX="838.0" layoutY="4.0" text="Healthy" />
+      <Label layoutX="14.0" layoutY="4.0" text="Recipes:" />
+      <Button fx:id="setPizza" layoutX="6.0" layoutY="375.0" mnemonicParsing="false" onMouseClicked="#setRecipe" text="Pita Pizza" />
+      <Button fx:id="setChicken" layoutX="95.0" layoutY="375.0" mnemonicParsing="false" onMouseClicked="#setRecipe" text="Rice &amp; Chicken" />
    </children>
 </AnchorPane>
