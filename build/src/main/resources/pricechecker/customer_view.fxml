@@ -14,7 +14,7 @@
                   <GridPane fx:id="currentMarket" gridLinesVisible="true">
                     <columnConstraints>
                         <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
-                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="75.0" />
+                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="180.0" />
                       <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
                         <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
                         <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
@@ -62,7 +62,7 @@
                <children>
                   <GridPane fx:id="currentCart" gridLinesVisible="true">
                      <columnConstraints>
-                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="75.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="180.0" />
                         <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
                         <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
                         <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
@@ -87,8 +87,18 @@
       </ScrollPane>
       <Button fx:id="loadData" layoutX="10.0" layoutY="442.0" mnemonicParsing="false" onMouseClicked="#loadDataIntoGrid" text="Load Data" />
       <Button fx:id="updateItems" layoutX="420.0" layoutY="427.0" mnemonicParsing="false" onMouseClicked="#sortDistance" text="Sort Distance" />
-      <TextField fx:id="maxDist" layoutX="262.0" layoutY="427.0" onKeyReleased="#updateMaxDist" promptText="10" />
-      <Label layoutX="218.0" layoutY="406.0" text="How far do you want to search? (In miles)" />
+      <TextField fx:id="maxDist" layoutX="158.0" layoutY="427.0" promptText="10" />
+      <Label layoutX="158.0" layoutY="406.0" text="How far do you want to search? (In miles)" />
       <Button fx:id="updateItemsPrice" layoutX="552.0" layoutY="427.0" mnemonicParsing="false" onMouseClicked="#sortPrice" text="Sort Price" />
+      <Button fx:id="searchButton" layoutX="345.0" layoutY="427.0" mnemonicParsing="false" onMouseClicked="#updateMaxDist" text="Search" />
+      <Label layoutX="289.0" layoutY="4.0" text="Name" />
+      <Label layoutX="170.0" layoutY="4.0" text="Add To Cart" />
+      <Label layoutX="387.0" layoutY="4.0" text="Price" />
+      <Label layoutX="432.0" layoutY="4.0" text="Distance" />
+      <Label layoutX="498.0" layoutY="4.0" text="Healthy" />
+      <Label layoutX="616.0" layoutY="4.0" text="Name" />
+      <Label layoutX="737.0" layoutY="4.0" text="Price" />
+      <Label layoutX="777.0" layoutY="4.0" text="Distance" />
+      <Label layoutX="838.0" layoutY="4.0" text="Healthy" />
    </children>
 </AnchorPane>

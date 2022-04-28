@@ -1,5 +1,7 @@
 package pricechecker;
 import java.io.*;
+
+import com.google.gson.Gson;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
 import javafx.scene.input.KeyEvent;
@@ -9,15 +11,16 @@ import javafx.scene.layout.GridPane;
 import java.io.IOException;
 import java.net.*;
 import java.util.LinkedList;
+import com.google.gson.stream.JsonReader;
 
 public class CustomerController {
 
     //Arrays to hold the various items
     LinkedList<String> name = new LinkedList<String>();
-    LinkedList<Integer> price = new LinkedList<Integer>();
+    LinkedList<Double> price = new LinkedList<Double>();
     LinkedList<Double> distance = new LinkedList<Double>();
     LinkedList<Boolean> isHealthy = new LinkedList<Boolean>();
-    Label[][] gridLabels = new Label[5][5];
+    Label[][] gridLabels = new Label[10][5];
     int numItems = 0, numCart = 0;
     int maximumDistance;
 
@@ -114,13 +117,18 @@ public class CustomerController {
     }
     public void loadDataIntoGrid(MouseEvent mouseEvent) throws IOException {
         if (mouseEvent.getSource() == loadData) {
-            addToList("Apple",2, 2.3, true);
-            addToList("Banana",3, 3.1, true);
-            addToList("Banana",6, 4.5, true);
-            addToList("Carrots",4, 2.5, true);
-            addToList("Snickers",1, 1.2, false);
+            addToList("Acorn Squash",2.38, 2.3, true);
+            addToList("Baby Carrots - 4 Pack",2.49, 3.1, true);
+            addToList("Bob Evans Egg Whites",5.99, 4.5, true);
+            addToList("Bowl & Basket Cheese Spread",7.99, 2.5, true);
+            addToList("Daisy Sour Cream",1.79, 1.2, true);
+            addToList("Bowl & Basket Chicken Wings",7.58, 1.3, true);
+            addToList("ShopRite Turkey Wings",2.69, 0.8, true);
+            addToList("Fresh Smoked Turkey Tails",9.18, 0.2, true);
+            addToList("Fresh Pork Toes",2.59, 10.0, true);
+            addToList("Fresh Pork Spare Ribs",10.33, 11.5, true);
 
-            /*
+
             URL url = new URL("http://127.0.0.1:5000/products");
             HttpURLConnection con = (HttpURLConnection) url.openConnection();
             con.setRequestMethod("GET");
@@ -133,12 +141,47 @@ public class CustomerController {
             }
             in.close();
             con.disconnect();
-            System.out.println(content);*/
+            String items = content.toString();
+
+            items = items.replace("[","");
+            items = items.replace("]","");
+/*
+            int currentIndex = 0;
+            Label currentName = null, currentPrice = null, currentDist = null, currentShop = null;
+            String currentString = "";
+            String currentNum = "";
+            for(int i = 0; i < items.length(); i++) {
+                char currentChar = items.charAt(i);
+                if(currentChar == ',')
+                    currentIndex++;
+
+                if(currentChar != ',' && (currentIndex % 5 == 1 || currentIndex % 5 == 4))
+                    currentString += currentChar;
+                else if(currentIndex % 5 == 2 || currentIndex % 5 == 3)
+                    currentNum += currentChar;
+
+                if(currentChar == ',' && currentIndex % 5 == 1) {
+                    currentName = new Label(currentString);
+                    currentString = "";
+                }
+                else if(currentChar == ',' && currentIndex % 5 == 2) {
+                    currentPrice = new Label(currentNum);
+                    currentNum = "";
+                }
+                else if(currentChar == ',' && currentIndex % 5 == 3) {
+                    currentDist = new Label(currentNum);
+                    currentNum = "";
+                }
+                else if(currentChar == ',' && currentIndex % 5 == 4) {
+                    currentShop = new Label(currentString);
+                    currentString = "";
+                }
+            }*/
         }
     }
 
     @FXML
-    public void addToList(String itemName, int itemPrice, double dist, boolean healthy) {
+    public void addToList(String itemName, double itemPrice, double dist, boolean healthy) {
         name.add(itemName);
         Label labelName = new Label(itemName);
         price.add(itemPrice);
@@ -163,7 +206,7 @@ public class CustomerController {
         numItems++;
     }
 
-    public void updateMaxDist(KeyEvent keyEvent) {
+    public void updateMaxDist() {
         try {
             maximumDistance = Integer.parseInt(maxDist.getText());
         }
@@ -283,14 +326,13 @@ public class CustomerController {
 
     public void sortPrice(MouseEvent mouseEvent) {
         boolean status = true;
-        System.out.println(price);
         do {
             int timesInIf = 0;
-            int current = price.getFirst();
+            double current = price.getFirst();
             for(int i = 1; i < price.size(); i++) {
                 if (current > price.get(i)) {
                     timesInIf++;
-                    swapAllLists(price, price.get(i-1), price.get(i));
+                    swapAllListsPrice(price, price.get(i-1), price.get(i));
                 }
                 current = price.get(i);
             }
@@ -332,8 +374,8 @@ public class CustomerController {
         int index2 = list.indexOf(ele2);
         String name1 = name.get(index1);
         String name2 = name.get(index2);
-        int price1 = price.get(index1);
-        int price2 = price.get(index2);
+        double price1 = price.get(index1);
+        double price2 = price.get(index2);
         boolean health1 = isHealthy.get(index1);
         boolean health2 = isHealthy.get(index2);
 
@@ -347,7 +389,7 @@ public class CustomerController {
         isHealthy.set(index2, health1);
     }
 
-    public void swapAllLists(LinkedList<Integer> list, int ele1, int ele2) {
+    public void swapAllListsPrice(LinkedList<Double> list, double ele1, double ele2) {
         int index1 = list.indexOf(ele1);
         int index2 = list.indexOf(ele2);
         String name1 = name.get(index1);
